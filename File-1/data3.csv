@@ -1,0 +1,302 @@
+Property type,Bedroom,Bathroom,Furnished Status,Carpet Area,Construction Status,Floor No,SquareFeet,Facing,Car Parking,Total Price (INR),Address,BHK
+Apartments,2,2,Semi-Furnished,1000,Ready to Move,12,1130,East,1,"₹ 85,00,000","Anand Nagar, Pune, Maharashtra",2 Bds - 2 Ba - 1130 ft2
+Apartments,2,2,Unfurnished,712,Under Construction,30,968,East,1,"₹ 80,00,000","Baner Road, Pune, Maharashtra",2 Bds - 2 Ba - 968 ft2
+Apartments,3,3,Unfurnished,1050,Under Construction,22,1365,East,2,"₹ 1,25,00,000","Koregaon Park Extension, Pune, Maharashtra",3 Bds - 3 Ba - 1365 ft2
+Apartments,2,2,Unfurnished,660,Under Construction,7,858,East,1,"₹ 57,00,000","Dhanori, Pune, Maharashtra",2 Bds - 2 Ba - 858 ft2
+Apartments,2,2,Unfurnished,727,Under Construction,11,1000,East,1,"₹ 55,00,000","Kondhwa, Pune, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Apartments,2,2,Unfurnished,680,Ready to Move,6,1050,East,0,"₹ 55,00,000","Ghorpadi Nigade Nagar, Pune, Maharashtra",2 Bds - 2 Ba - 1050 ft2
+Apartments,2,2,Unfurnished,900,Ready to Move,2,1172,East,1,"₹ 70,00,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 1172 ft2
+Apartments,1,1,Unfurnished,600,Ready to Move,6,750,East,0,"₹ 24,00,000","Narhe, Pune, Maharashtra",1 Bds - 1 Ba - 750 ft2
+Apartments,2,2,Unfurnished,840,Under Construction,30,1092,East,1,"₹ 1,20,00,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 1092 ft2
+Apartments,1,1,Unfurnished,700,Ready to Move,5,827,North,0,"₹ 65,00,000","Shukrawar Peth, Pune, Maharashtra",1 Bds - 1 Ba - 827 ft2
+Apartments,1,1,Semi-Furnished,480,Ready to Move,3,500,East,0,"₹ 42,00,000","Gokhale Nagar, Pune, Maharashtra",1 Bds - 1 Ba - 500 ft2
+Apartments,1,1,Unfurnished,385,Ready to Move,-,385,East,0,"₹ 23,40,000","Vadgaon Budruk, Pune, Maharashtra",1 Bds - 1 Ba - 385 ft2
+Apartments,3,2,Semi-Furnished,700,Ready to Move,21,945,East,1,"₹ 1,00,00,000","Magarpatta City, Pune, Maharashtra",3 Bds - 2 Ba - 945 ft2
+Apartments,2,2,Semi-Furnished,750,Ready to Move,19,950,West,1,"₹ 1,15,00,000","Kalyani Nagar, Pune, Maharashtra",2 Bds - 2 Ba - 950 ft2
+Apartments,1,1,Unfurnished,440,Ready to Move,6,580,East,0,"₹ 28,00,000","Dhayri, Pune, Maharashtra",1 Bds - 1 Ba - 580 ft2
+Apartments,3,3,Unfurnished,1615,Under Construction,27,2099,East,1,"₹ 2,80,00,000","Kharadi, Pune, Maharashtra",3 Bds - 3 Ba - 2099 ft2
+Apartments,1,1,Semi-Furnished,423,Ready to Move,5,423,East,0,"₹ 35,00,000","Kasba peth, Pune, Maharashtra",1 Bds - 1 Ba - 423 ft2
+Apartments,4+,4+,Furnished,4200,Ready to Move,-,4200,-,3,"₹ 4,70,00,000","Koregaon park, Pune, Maharashtra",4+ Bds - 4+ Ba - 4200 ft2
+Apartments,4,4,Unfurnished,1819,Under Construction,27,2364,East,1,"₹ 3,35,00,000","Kharadi, Pune, Maharashtra",4 Bds - 4 Ba - 2364 ft2
+Houses & Villas,1,1,Unfurnished,210,Ready to Move,0,12,South-East,0,"₹ 6,50,000","Yerwada, Pune, Maharashtra",1 Bds - 1 Ba - 12 ft2
+Apartments,2,2,Unfurnished,730,New Launch,14,1000,East,1,"₹ 49,00,000","NIBM Mohammadwadi Road, Pune, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Apartments,2,2,Unfurnished,800,Ready to Move,7,855,East,0,"₹ 27,10,000","Kondhwa Khurd, Pune, Maharashtra",2 Bds - 2 Ba - 855 ft2
+Apartments,2,2,Unfurnished,799,New Launch,13,1118,East,1,"₹ 67,00,000","Magarpatta City, Pune, Maharashtra",2 Bds - 2 Ba - 1118 ft2
+Apartments,4,3,Unfurnished,1425,Under Construction,22,1852,East,1,"₹ 2,16,00,000","Wadgaon Sheri, Pune, Maharashtra",4 Bds - 3 Ba - 1852 ft2
+Apartments,2,2,Unfurnished,800,Ready to Move,24,1050,East,1,"₹ 85,00,000","Kharadi, Pune, Maharashtra",2 Bds - 2 Ba - 1050 ft2
+Apartments,2,2,Unfurnished,802,Under Construction,22,1042,East,1,"₹ 1,24,00,000","Wadgaon Sheri, Pune, Maharashtra",2 Bds - 2 Ba - 1042 ft2
+Houses & Villas,2,2,Unfurnished,1479,Ready to Move,2,1479,North-East,1,"₹ 70,00,000","Pune Cantonment, Pune, Maharashtra",2 Bds - 2 Ba - 1479 ft2
+Apartments,2,2,Unfurnished,760,Ready to Move,11,1060,West,1,"₹ 58,00,000","Mohammad Wadi, Pune, Maharashtra",2 Bds - 2 Ba - 1060 ft2
+Apartments,1,-,-,350,-,-,380,-,-,"₹ 25,00,000","Bhawani Peth, Pune, Maharashtra",-
+Apartments,2,2,Unfurnished,805,Under Construction,12,1046,East,1,"₹ 83,00,000","Wadgaon Sheri, Pune, Maharashtra",2 Bds - 2 Ba - 1046 ft2
+Apartments,2,2,Unfurnished,0,New Launch,14,1050,East,1,"₹ 45,00,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 1050 ft2
+Apartments,3,3,Furnished,1685,Ready to Move,-,1685,-,1,"₹ 2,80,00,000","Magarpatta City, Pune, Maharashtra",3 Bds - 3 Ba - 1685 ft2
+Apartments,1,1,Unfurnished,440,Ready to Move,12,556,East,0,"₹ 28,50,000","Hadapsar, Pune, Maharashtra",1 Bds - 1 Ba - 556 ft2
+Apartments,2,2,Semi-Furnished,1000,Ready to Move,4,1500,East,1,"₹ 1,12,00,000","Walvekar Nagar, Pune, Maharashtra",2 Bds - 2 Ba - 1500 ft2
+Apartments,2,2,Unfurnished,705,Under Construction,14,916,East,1,"₹ 85,00,000","Vishrant Wadi, Pune, Maharashtra",2 Bds - 2 Ba - 916 ft2
+Apartments,3,3,Furnished,2100,Ready to Move,6,2240,East,1,"₹ 2,50,00,000","Sopan Baug, Pune, Maharashtra",3 Bds - 3 Ba - 2240 ft2
+Apartments,4+,4+,Semi-Furnished,3000,Ready to Move,-,3000,-,2,"₹ 3,50,00,000","Kalyani Nagar, Pune, Maharashtra",4+ Bds - 4+ Ba - 3000 ft2
+Apartments,4+,4,Unfurnished,1600,Under Construction,22,2200,West,2,"₹ 1,30,00,000","NIBM Road Kondhwa, Pune, Maharashtra",4+ Bds - 4 Ba - 2200 ft2
+Apartments,4+,4,Unfurnished,1641,Under Construction,22,2133,East,1,"₹ 2,49,00,000","Wadgaon Sheri, Pune, Maharashtra",4+ Bds - 4 Ba - 2133 ft2
+Apartments,4,4,Unfurnished,1688,Under Construction,22,2194,East,1,"₹ 1,98,00,000","Kharadi, Pune, Maharashtra",4 Bds - 4 Ba - 2194 ft2
+Apartments,2,2,Unfurnished,600,Under Construction,20,900,East,1,"₹ 75,00,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 900 ft2
+Apartments,3,3,Unfurnished,1686,New Launch,35,2200,West,2,"₹ 2,50,00,000","Karve Nagar, Pune, Maharashtra",3 Bds - 3 Ba - 2200 ft2
+Apartments,2,2,Unfurnished,875,Under Construction,13,1137,East,1,"₹ 1,15,00,000","Koregaon Park Extension, Pune, Maharashtra",2 Bds - 2 Ba - 1137 ft2
+Apartments,3,3,Furnished,1100,Ready to Move,10,1335,East,1,"₹ 1,30,00,000","Narayan Peth, Pune, Maharashtra",3 Bds - 3 Ba - 1335 ft2
+Apartments,1,1,Unfurnished,463,New Launch,7,626,East,1,"₹ 42,00,000","Dattawadi, Pune, Maharashtra",1 Bds - 1 Ba - 626 ft2
+Apartments,2,2,Unfurnished,670,Ready to Move,4,880,East,1,"₹ 58,00,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 880 ft2
+Apartments,2,2,Semi-Furnished,750,Ready to Move,7,950,East,1,"₹ 60,00,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 950 ft2
+Apartments,2,2,Furnished,622,Ready to Move,-,724,East,-,"₹ 26,00,000","Vadgaon, Pune, Maharashtra",2 Bds - 2 Ba - 724 ft2
+Apartments,2,2,Furnished,1000,Ready to Move,10,1225,South,1,"₹ 1,85,00,000","Boat Club Road, Pune, Maharashtra",2 Bds - 2 Ba - 1225 ft2
+Builder Floors,1,1,Semi-Furnished,450,Ready to Move,5,480,South,1,"₹ 10,000","Nana Peth, Pune, Maharashtra",1 Bds - 1 Ba - 480 ft2
+Apartments,1,1,Unfurnished,550,Ready to Move,5,550,East,0,"₹ 16,50,000","Narhe, Pune, Maharashtra",1 Bds - 1 Ba - 550 ft2
+Apartments,4,4,Unfurnished,1650,Under Construction,25,2145,East,1,"₹ 2,04,00,000","Kharadi, Pune, Maharashtra",4 Bds - 4 Ba - 2145 ft2
+Apartments,3,3,Unfurnished,1325,Ready to Move,14,1800,East,2,"₹ 1,30,00,000","NIBM Road Kondhwa, Pune, Maharashtra",3 Bds - 3 Ba - 1800 ft2
+Apartments,2,2,Furnished,900,Ready to Move,-,1000,East,1,"₹ 67,00,000","Bhawani Peth, Pune, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Apartments,2,2,Unfurnished,715,Ready to Move,14,950,East,1,"₹ 47,00,000","Salunke Vihar, Pune, Maharashtra",2 Bds - 2 Ba - 950 ft2
+Apartments,4,4,Unfurnished,1935,Under Construction,22,2515,East,2,"₹ 2,46,00,000","Koregaon Park Extension, Pune, Maharashtra",4 Bds - 4 Ba - 2515 ft2
+Apartments,2,2,Unfurnished,799,New Launch,13,1186,East,1,"₹ 62,50,006","Market Yard, Pune, Maharashtra",2 Bds - 2 Ba - 1186 ft2
+Apartments,3,3,Unfurnished,1043,Under Construction,12,1355,East,1,"₹ 1,30,00,000","Koregaon Park Extension, Pune, Maharashtra",3 Bds - 3 Ba - 1355 ft2
+Apartments,1,1,Unfurnished,450,Ready to Move,9,650,East,0,"₹ 26,50,000","Salunke Vihar, Pune, Maharashtra",1 Bds - 1 Ba - 650 ft2
+Apartments,2,2,Unfurnished,750,Under Construction,4,1000,North-East,1,"₹ 59,59,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Apartments,2,2,Unfurnished,799,New Launch,13,1118,East,1,"₹ 67,00,000","Ambegaon Pathar, Pune, Maharashtra",2 Bds - 2 Ba - 1118 ft2
+Apartments,2,2,Furnished,1270,Ready to Move,-,1300,-,1,"₹ 1,70,00,000","Kalyani Nagar, Pune, Maharashtra",2 Bds - 2 Ba - 1300 ft2
+Apartments,4,4,Unfurnished,1444,Under Construction,16,1877,East,1,"₹ 1,77,00,000","Kharadi, Pune, Maharashtra",4 Bds - 4 Ba - 1877 ft2
+Apartments,3,3,Unfurnished,1370,Under Construction,30,1800,West,1,"₹ 1,98,00,000","Baner Gaon, Pune, Maharashtra",3 Bds - 3 Ba - 1800 ft2
+Apartments,4,4,Furnished,2200,Ready to Move,-,2200,-,2,"₹ 2,50,00,000","Koregaon park, Pune, Maharashtra",4 Bds - 4 Ba - 2200 ft2
+Apartments,4+,4+,Semi-Furnished,5300,Ready to Move,-,5300,-,2,"₹ 8,75,00,000","Sopan Baug, Pune, Maharashtra",4+ Bds - 4+ Ba - 5300 ft2
+Builder Floors,1,1,Unfurnished,285,Ready to Move,11,285,East,0,"₹ 16,00,000","Somwar Peth, Pune, Maharashtra",1 Bds - 1 Ba - 285 ft2
+Apartments,2,2,Unfurnished,948,Under Construction,19,1256,West,1,"₹ 1,05,85,230","Baner Annex, Pune, Maharashtra",2 Bds - 2 Ba - 1256 ft2
+Houses & Villas,4,3,Semi-Furnished,720,Ready to Move,2,1800,West,0,"₹ 1,10,00,000","Swargate, Pune, Maharashtra",4 Bds - 3 Ba - 1800 ft2
+Apartments,2,2,Unfurnished,703,Under Construction,20,913,East,1,"₹ 83,00,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 913 ft2
+Houses & Villas,2,3,Unfurnished,900,Ready to Move,2,1450,East,1,"₹ 70,00,000","Hadapsar, Pune, Maharashtra",2 Bds - 3 Ba - 1450 ft2
+Apartments,3,3,Semi-Furnished,1089,Ready to Move,16,1420,East,2,"₹ 1,05,00,000","Dhanori, Pune, Maharashtra",3 Bds - 3 Ba - 1420 ft2
+Apartments,3,3,Semi-Furnished,1150,Ready to Move,22,1350,North,1,"₹ 1,15,00,000","Nanded City, Pune, Maharashtra",3 Bds - 3 Ba - 1350 ft2
+Apartments,1,2,Furnished,518,Ready to Move,11,673,East,1,"₹ 39,00,000","Dhanori, Pune, Maharashtra",1 Bds - 2 Ba - 673 ft2
+Apartments,3,3,Unfurnished,1050,Ready to Move,5,1390,West,1,"₹ 98,59,635","Baner Annex, Pune, Maharashtra",3 Bds - 3 Ba - 1390 ft2
+Houses & Villas,1,1,Semi-Furnished,450,Ready to Move,0,500,South,0,"₹ 34,00,000","Kharadi, Pune, Maharashtra",1 Bds - 1 Ba - 500 ft2
+Apartments,2,2,Unfurnished,803,Under Construction,30,1043,East,1,"₹ 1,03,00,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 1043 ft2
+Apartments,2,2,Unfurnished,800,Under Construction,22,1100,East,1,"₹ 63,00,000","NIBM Road Kondhwa, Pune, Maharashtra",2 Bds - 2 Ba - 1100 ft2
+Apartments,2,2,Unfurnished,740,Ready to Move,17,1100,West,1,"₹ 67,00,000","Baner Road, Pune, Maharashtra",2 Bds - 2 Ba - 1100 ft2
+Apartments,2,2,Furnished,900,Ready to Move,6,1100,East,1,"₹ 95,00,000","Dhole Patil Road, Pune, Maharashtra",2 Bds - 2 Ba - 1100 ft2
+Apartments,4,4,Semi-Furnished,3535,Ready to Move,20,5050,East,1,"₹ 10,84,00,000","Kalyani Nagar, Pune, Maharashtra",4 Bds - 4 Ba - 5050 ft2
+Apartments,4+,4+,Furnished,3100,Ready to Move,3,4000,East,3,"₹ 5,75,00,000","Navi peth, Pune, Maharashtra",4+ Bds - 4+ Ba - 4000 ft2
+Apartments,2,2,Furnished,700,Ready to Move,8,1000,East,2,"₹ 1,10,00,000","Kalyani Nagar, Pune, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Apartments,2,2,Semi-Furnished,590,Ready to Move,7,700,East,1,"₹ 49,00,000","Anand Nagar, Pune, Maharashtra",2 Bds - 2 Ba - 700 ft2
+Apartments,3,3,Unfurnished,955,Under Construction,14,1241,East,1,"₹ 1,13,00,000","Vishrant Wadi, Pune, Maharashtra",3 Bds - 3 Ba - 1241 ft2
+Builder Floors,3,3,Unfurnished,1250,Under Construction,21,1600,East,1,"₹ 1,40,00,000","Hadapsar, Pune, Maharashtra",3 Bds - 3 Ba - 1600 ft2
+Houses & Villas,1,1,Unfurnished,400,Ready to Move,3,400,North-East,0,"₹ 30,00,000","Janta Nagar, Pune, Maharashtra",1 Bds - 1 Ba - 400 ft2
+Builder Floors,3,3,Unfurnished,1250,Under Construction,22,1700,East,1,"₹ 1,41,00,000","Magarpatta City, Pune, Maharashtra",3 Bds - 3 Ba - 1700 ft2
+Apartments,1,1,Furnished,610,Ready to Move,4,610,East,1,"₹ 40,00,000","Katraj Kondhwa Road, Pune, Maharashtra",1 Bds - 1 Ba - 610 ft2
+Apartments,1,1,Unfurnished,450,Ready to Move,5,575,East,1,"₹ 20,00,000","Dhayri, Pune, Maharashtra",1 Bds - 1 Ba - 575 ft2
+Apartments,3,3,Unfurnished,0,New Launch,14,1300,East,1,"₹ 65,00,000","Hadapsar, Pune, Maharashtra",3 Bds - 3 Ba - 1300 ft2
+Apartments,2,2,Unfurnished,740,Ready to Move,18,986,West,1,"₹ 68,50,000","Pashan, Pune, Maharashtra",2 Bds - 2 Ba - 986 ft2
+Apartments,1,1,Unfurnished,375,Under Construction,5,500,East,0,"₹ 13,00,000","Ambegaon Kh Part N V, Pune, Maharashtra",1 Bds - 1 Ba - 500 ft2
+Apartments,1,1,Unfurnished,460,Ready to Move,5,585,East,0,"₹ 22,00,000","Narhe, Pune, Maharashtra",1 Bds - 1 Ba - 585 ft2
+Apartments,3,3,Unfurnished,960,Ready to Move,8,1280,East,1,"₹ 1,07,00,000","Hadapsar,  Pune, Maharashtra",3 Bds - 3 Ba - 1280 ft2
+Apartments,4,4+,Semi-Furnished,3535,Ready to Move,15,5050,East,3,"₹ 2,60,000","Kalyani Nagar, Pune, Maharashtra",4 Bds - 4+ Ba - 5050 ft2
+Apartments,3,2,Unfurnished,991,Under Construction,22,1288,East,1,"₹ 1,16,00,000","Kharadi, Pune, Maharashtra",3 Bds - 2 Ba - 1288 ft2
+Apartments,2,2,Unfurnished,811,Under Construction,22,1054,East,1,"₹ 98,00,000","Kharadi, Pune, Maharashtra",2 Bds - 2 Ba - 1054 ft2
+Apartments,1,1,Unfurnished,809,Ready to Move,-,809,East,0,"₹ 19,65,870","Satara Road, Balajinagar, Pune, Maharashtra",1 Bds - 1 Ba - 809 ft2
+Apartments,1,1,Furnished,480,Ready to Move,6,560,-,1,"₹ 28,00,000","Kondhwa, Pune, Maharashtra",1 Bds - 1 Ba - 560 ft2
+Apartments,2,2,Unfurnished,705,Ready to Move,12,830,East,1,"₹ 65,00,000","Solapur, Pune, Maharashtra",2 Bds - 2 Ba - 830 ft2
+Apartments,3,3,Unfurnished,1413,Under Construction,22,1836,East,2,"₹ 1,78,00,000","Koregaon Park Extension, Pune, Maharashtra",3 Bds - 3 Ba - 1836 ft2
+Houses & Villas,4+,4+,Furnished,4500,Ready to Move,-,6000,-,3+,"₹ 16,00,00,000","Koregaon park, Pune, Maharashtra",4+ Bds - 4+ Ba - 6000 ft2
+Apartments,2,2,Unfurnished,878,Under Construction,18,1230,East,1,"₹ 90,00,000","Nanded City, Pune, Maharashtra",2 Bds - 2 Ba - 1230 ft2
+Apartments,3,4,Furnished,1600,Ready to Move,-,2200,-,1,"₹ 3,50,00,000","Bhosle Nagar, Pune, Maharashtra",3 Bds - 4 Ba - 2200 ft2
+Apartments,2,2,Unfurnished,870,Under Construction,20,1131,East,1,"₹ 1,39,00,000","Koregaon Park Extension, Pune, Maharashtra",2 Bds - 2 Ba - 1131 ft2
+Apartments,1,1,Unfurnished,452,Ready to Move,22,680,East,1,"₹ 51,00,000","Baner - Mahalunge Road, Pune, Maharashtra",1 Bds - 1 Ba - 680 ft2
+Apartments,2,2,Unfurnished,761,New Launch,21,1065,East,1,"₹ 49,00,000","Ambegaon, Pune, Maharashtra",2 Bds - 2 Ba - 1065 ft2
+Apartments,2,2,Unfurnished,750,Ready to Move,1,900,North,0,"₹ 85,00,000","Salisbury Park, Pune, Maharashtra",2 Bds - 2 Ba - 900 ft2
+Apartments,4,4,Unfurnished,1682,Under Construction,17,2186,East,2,"₹ 2,60,00,000","Koregaon Park Extension, Pune, Maharashtra",4 Bds - 4 Ba - 2186 ft2
+Apartments,3,3,Semi-Furnished,1069,Ready to Move,16,1480,East,2,"₹ 1,05,00,000","Dhanori, Pune, Maharashtra",3 Bds - 3 Ba - 1480 ft2
+Apartments,3,3,Unfurnished,964,Under Construction,20,1253,East,1,"₹ 1,20,00,000","Hadapsar, Pune, Maharashtra",3 Bds - 3 Ba - 1253 ft2
+Apartments,1,1,Semi-Furnished,360,Ready to Move,5,478,East,0,"₹ 18,50,000","Katraj, Pune, Maharashtra",1 Bds - 1 Ba - 478 ft2
+Houses & Villas,2,3,Unfurnished,250,Ready to Move,3,250,East,1,"₹ 21,00,000","Solapur, Pune, Maharashtra",2 Bds - 3 Ba - 250 ft2
+Apartments,2,2,Unfurnished,800,Ready to Move,14,1096,West,1,"₹ 67,50,000","Pashan, Pune, Maharashtra",2 Bds - 2 Ba - 1096 ft2
+Builder Floors,3,2,Semi-Furnished,1500,Ready to Move,5,2000,East,0,"₹ 85,00,000","Bhawani Peth, Pune, Maharashtra",3 Bds - 2 Ba - 2000 ft2
+Apartments,2,2,Semi-Furnished,849,Ready to Move,12,998,East,1,"₹ 82,00,000","Anand Nagar, Pune, Maharashtra",2 Bds - 2 Ba - 998 ft2
+Apartments,3,3,Unfurnished,1500,Under Construction,13,1950,East,1,"₹ 2,00,00,000","Koregaon Park Extension, Pune, Maharashtra",3 Bds - 3 Ba - 1950 ft2
+Apartments,2,2,Semi-Furnished,650,Ready to Move,9,920,East,1,"₹ 39,50,000","Salunke Vihar, Pune, Maharashtra",2 Bds - 2 Ba - 920 ft2
+Apartments,2,2,Semi-Furnished,593,Under Construction,20,893,North-East,1,"₹ 71,90,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 893 ft2
+Apartments,3,3,Semi-Furnished,1156,Under Construction,23,1520,East,1,"₹ 76,00,000","Kalyani Nagar, Pune, Maharashtra",3 Bds - 3 Ba - 1520 ft2
+Apartments,3,3,Unfurnished,1427,Under Construction,34,1855,East,2,"₹ 3,00,00,000","Koregaon Park Extension, Pune, Maharashtra",3 Bds - 3 Ba - 1855 ft2
+Apartments,2,2,Unfurnished,1120,Under Construction,14,1500,East,1,"₹ 2,10,00,000","Koregaon Park Extension, Pune, Maharashtra",2 Bds - 2 Ba - 1500 ft2
+Apartments,2,2,-,855,Ready to Move,-,855,-,-,"₹ 27,00,000","Kondhwa Khurd, Pune, Maharashtra",2 Bds - 2 Ba - 855 ft2
+Apartments,2,2,Unfurnished,761,New Launch,21,1065,East,1,"₹ 49,00,000","Market Yard, Pune, Maharashtra",2 Bds - 2 Ba - 1065 ft2
+Houses & Villas,4,4,Unfurnished,3100,Ready to Move,3,3100,-,-,"₹ 4,25,00,000","Kalyani Nagar, Pune, Maharashtra",4 Bds - 4 Ba - 3100 ft2
+Apartments,3,2,Unfurnished,870,Under Construction,14,1131,East,1,"₹ 1,05,00,000","Kharadi, Pune, Maharashtra",3 Bds - 2 Ba - 1131 ft2
+Apartments,1,1,-,450,Ready to Move,-,450,East,0,"₹ 13,50,000","Kondhwa Khurd, Pune, Maharashtra",1 Bds - 1 Ba - 450 ft2
+Apartments,2,2,Unfurnished,750,Ready to Move,7,1080,East,1,"₹ 56,00,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 1080 ft2
+Builder Floors,4+,4+,Furnished,5000,Ready to Move,-,9000,-,3+,"₹ 5,11,00,000","Magarpatta City, Pune, Maharashtra",4+ Bds - 4+ Ba - 9000 ft2
+Apartments,1,1,Unfurnished,500,Ready to Move,5,600,East,0,"₹ 22,00,000","Narhe, Pune, Maharashtra",1 Bds - 1 Ba - 600 ft2
+Apartments,1,1,Unfurnished,430,Under Construction,20,559,East,1,"₹ 54,00,000","Hadapsar, Pune, Maharashtra",1 Bds - 1 Ba - 559 ft2
+Apartments,2,2,Unfurnished,658,Under Construction,20,900,East,1,"₹ 59,90,000","Baner, Pune, Maharashtra",2 Bds - 2 Ba - 900 ft2
+Apartments,2,2,Unfurnished,950,Ready to Move,11,1300,West,1,"₹ 51,00,000","Pisoli, Pune, Maharashtra",2 Bds - 2 Ba - 1300 ft2
+Apartments,1,1,Unfurnished,598,Ready to Move,-,598,East,0,"₹ 16,14,600","Satara Road, Balajinagar, Pune, Maharashtra",1 Bds - 1 Ba - 598 ft2
+Apartments,2,2,Unfurnished,820,Under Construction,22,1066,East,1,"₹ 93,00,000","Koregaon Park Extension, Pune, Maharashtra",2 Bds - 2 Ba - 1066 ft2
+Apartments,2,2,Unfurnished,700,New Launch,18,1000,East,1,"₹ 55,00,000","NIBM Road Kondhwa, Pune, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Apartments,3,3,Semi-Furnished,1400,Ready to Move,0,2000,North,1,"₹ 2,85,00,000","Kalyani Nagar, Pune, Maharashtra",3 Bds - 3 Ba - 2000 ft2
+Apartments,2,2,Unfurnished,800,Under Construction,11,1100,East,1,"₹ 55,00,000","NIBM Road Kondhwa, Pune, Maharashtra",2 Bds - 2 Ba - 1100 ft2
+Apartments,2,2,Unfurnished,763,New Launch,21,1063,East,1,"₹ 49,00,000","Katraj, Pune, Maharashtra",2 Bds - 2 Ba - 1063 ft2
+Apartments,3,2,Unfurnished,1185,Under Construction,22,1540,East,1,"₹ 1,75,00,000","Wadgaon Sheri, Pune, Maharashtra",3 Bds - 2 Ba - 1540 ft2
+Apartments,1,1,Unfurnished,635,Ready to Move,4,635,East,1,"₹ 34,00,000","Narhe, Pune, Maharashtra",1 Bds - 1 Ba - 635 ft2
+Apartments,2,2,Unfurnished,750,Ready to Move,15,860,East,1,"₹ 15,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 860 ft2
+Apartments,3,3,Unfurnished,936,Under Construction,20,1216,East,1,"₹ 1,07,00,000","Hadapsar, Pune, Maharashtra",3 Bds - 3 Ba - 1216 ft2
+Apartments,3,3,Unfurnished,00,Under Construction,22,1400,East,1,"₹ 1,00,00,000","Hadapsar,  Pune, Maharashtra",3 Bds - 3 Ba - 1400 ft2
+Apartments,2,2,Unfurnished,878,Under Construction,18,1230,East,1,"₹ 90,00,000","Narhe, Pune, Maharashtra",2 Bds - 2 Ba - 1230 ft2
+Apartments,1,1,Unfurnished,811,Ready to Move,-,811,East,0,"₹ 18,97,740","Baner, Pune, Maharashtra",1 Bds - 1 Ba - 811 ft2
+Apartments,2,2,Unfurnished,700,Ready to Move,9,850,West,1,"₹ 62,00,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 850 ft2
+Apartments,4,4,Unfurnished,1800,Under Construction,13,2340,East,2,"₹ 2,40,00,000","Koregaon Park Extension, Pune, Maharashtra",4 Bds - 4 Ba - 2340 ft2
+Apartments,3,3,Unfurnished,1141,Under Construction,30,1483,East,1,"₹ 1,42,00,000","Kharadi, Pune, Maharashtra",3 Bds - 3 Ba - 1483 ft2
+Apartments,2,2,Unfurnished,741,Under Construction,14,963,East,1,"₹ 92,00,000","Kharadi, Pune, Maharashtra",2 Bds - 2 Ba - 963 ft2
+Apartments,3,3,Unfurnished,1150,Under Construction,25,1495,East,1,"₹ 1,42,00,000","Kharadi, Pune, Maharashtra",3 Bds - 3 Ba - 1495 ft2
+Apartments,2,2,-,650,Ready to Move,-,663,-,-,"₹ 21,00,000","Kondhwa Khurd, Pune, Maharashtra",2 Bds - 2 Ba - 663 ft2
+Apartments,2,2,Unfurnished,739,Ready to Move,2,68,-,1,"₹ 45,00,000","Dhayri, Pune, Maharashtra",2 Bds - 2 Ba - 68 ft2
+Apartments,2,2,Unfurnished,761,New Launch,21,1065,West,1,"₹ 49,00,000","Magarpatta City, Pune, Maharashtra",2 Bds - 2 Ba - 1065 ft2
+Apartments,2,3,Unfurnished,700,Ready to Move,6,700,East,0,"₹ 28,00,000","Narhe, Pune, Maharashtra",2 Bds - 3 Ba - 700 ft2
+Apartments,1,1,Unfurnished,625,Ready to Move,-,625,East,0,"₹ 16,87,500","Satara Road, Balajinagar, Pune, Maharashtra",1 Bds - 1 Ba - 625 ft2
+Apartments,2,2,Semi-Furnished,850,Ready to Move,22,1150,East,1,"₹ 81,00,000","NIBM, Pune, Maharashtra",2 Bds - 2 Ba - 1150 ft2
+Apartments,2,2,Unfurnished,787,Under Construction,12,1023,East,1,"₹ 95,00,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 1023 ft2
+Apartments,-,1,Furnished,349,Ready to Move,4,349,North-East,0,"₹ 25,00,000","Khadki, Pune, Maharashtra",-
+Apartments,2,2,Unfurnished,725,New Launch,11,1025,East,1,"₹ 55,00,000","NIBM Road Kondhwa, Pune, Maharashtra",2 Bds - 2 Ba - 1025 ft2
+Apartments,2,2,Semi-Furnished,1065,Ready to Move,5,1250,East,1,"₹ 98,00,00,000","Modi Colony, Pune, Maharashtra",2 Bds - 2 Ba - 1250 ft2
+Apartments,1,1,Unfurnished,670,Ready to Move,4,880,North,1,"₹ 55,00,000","Hadapsar, Pune, Maharashtra",1 Bds - 1 Ba - 880 ft2
+Apartments,4,4,Unfurnished,2300,Under Construction,35,3000,West,2,"₹ 3,40,00,000","Baner, Pune, Maharashtra",4 Bds - 4 Ba - 3000 ft2
+Apartments,2,2,Unfurnished,800,Ready to Move,18,1108,West,1,"₹ 75,69,852","Veerbhadra Nagar, Pune, Maharashtra",2 Bds - 2 Ba - 1108 ft2
+Apartments,2,2,Semi-Furnished,650,Ready to Move,-,736,West,-,"₹ 35,00,000","Kasba peth, Pune, Maharashtra",2 Bds - 2 Ba - 736 ft2
+Apartments,2,2,Semi-Furnished,1032,Under Construction,24,1250,East,1,"₹ 1,00,00,000","Kharadi, Pune, Maharashtra",2 Bds - 2 Ba - 1250 ft2
+Apartments,1,1,Unfurnished,408,New Launch,10,570,East,1,"₹ 19,00,000","Bhosari Adinath Nagar, Pune, Maharashtra",1 Bds - 1 Ba - 570 ft2
+Apartments,2,2,Unfurnished,676,New Launch,20,877,West,1,"₹ 60,00,000","Baner, Pune, Maharashtra",2 Bds - 2 Ba - 877 ft2
+Apartments,2,2,Semi-Furnished,739,Ready to Move,7,900,East,1,"₹ 60,00,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 900 ft2
+Houses & Villas,4+,4+,Furnished,6800,Ready to Move,3,7000,-,3+,"₹ 7,80,00,000","Kalyani Nagar, Pune, Maharashtra",4+ Bds - 4+ Ba - 7000 ft2
+Apartments,1,2,-,520,Ready to Move,-,520,-,-,"₹ 15,50,000","Kondhwa Khurd, Pune, Maharashtra",1 Bds - 2 Ba - 520 ft2
+Apartments,1,1,Unfurnished,580,Ready to Move,-,580,East,0,"₹ 36,54,000","Dhanakwadi, Pune, Maharashtra",1 Bds - 1 Ba - 580 ft2
+Apartments,1,1,Semi-Furnished,300,Ready to Move,6,355,East,0,"₹ 15,00,000","Narhe, Pune, Maharashtra",1 Bds - 1 Ba - 355 ft2
+Apartments,1,1,Unfurnished,430,Ready to Move,7,620,East,1,"₹ 25,50,000","Pisoli, Pune, Maharashtra",1 Bds - 1 Ba - 620 ft2
+Apartments,4,4,Unfurnished,2400,Ready to Move,6,3100,East,2,"₹ 4,60,00,000","Apte Road, Pune, Maharashtra",4 Bds - 4 Ba - 3100 ft2
+Apartments,1,1,Unfurnished,550,Ready to Move,4,635,East,1,"₹ 30,00,000","Dhayri, Pune, Maharashtra",1 Bds - 1 Ba - 635 ft2
+Apartments,2,2,Unfurnished,786,Under Construction,7,1021,East,1,"₹ 89,00,000","Wadgaon Sheri, Pune, Maharashtra",2 Bds - 2 Ba - 1021 ft2
+Apartments,2,2,Unfurnished,767,Ready to Move,7,1067,North-East,1,"₹ 65,65,000","Kharadi, Pune, Maharashtra",2 Bds - 2 Ba - 1067 ft2
+Apartments,2,2,Unfurnished,620,Under Construction,11,806,East,1,"₹ 83,00,000","Wadgaon Sheri, Pune, Maharashtra",2 Bds - 2 Ba - 806 ft2
+Apartments,3,4,Unfurnished,1250,Ready to Move,6,1550,East,1,"₹ 2,00,00,000","Koregaon park, Pune, Maharashtra",3 Bds - 4 Ba - 1550 ft2
+Apartments,1,1,Semi-Furnished,450,Ready to Move,6,507,West,1,"₹ 59,00,000","Koregaon park, Pune, Maharashtra",1 Bds - 1 Ba - 507 ft2
+Apartments,2,2,Unfurnished,678,New Launch,20,876,East,1,"₹ 60,00,000","Baner - Mahalunge Road, Pune, Maharashtra",2 Bds - 2 Ba - 876 ft2
+Apartments,1,1,Unfurnished,567,Ready to Move,-,567,East,0,"₹ 16,83,990","Satara Road, Balajinagar, Pune, Maharashtra",1 Bds - 1 Ba - 567 ft2
+Apartments,2,2,Unfurnished,799,New Launch,13,1118,East,1,"₹ 67,00,008","Bibwewadi Ashtavinayak Society, Pune, Maharashtra",2 Bds - 2 Ba - 1118 ft2
+Apartments,2,2,Unfurnished,799,-,20,1038,East,1,"₹ 1,00,00,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 1038 ft2
+Apartments,4+,4,Unfurnished,1700,New Launch,22,2300,East,2,"₹ 1,50,00,000","NIBM Road Kondhwa, Pune, Maharashtra",4+ Bds - 4 Ba - 2300 ft2
+Apartments,2,2,Unfurnished,803,Under Construction,18,1043,East,1,"₹ 82,00,000","Vishrant Wadi, Pune, Maharashtra",2 Bds - 2 Ba - 1043 ft2
+Apartments,2,2,Furnished,900,Ready to Move,8,1160,East,1,"₹ 54,50,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 1160 ft2
+Apartments,2,2,Unfurnished,800,Ready to Move,8,950,East,0,"₹ 36,00,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 950 ft2
+Apartments,3,3,Semi-Furnished,1050,Ready to Move,5,1400,West,1,"₹ 99,00,000","Pashan, Pune, Maharashtra",3 Bds - 3 Ba - 1400 ft2
+Apartments,3,3,Semi-Furnished,1515,Ready to Move,4,1800,East,1,"₹ 1,85,00,000","Kalyani Nagar, Pune, Maharashtra",3 Bds - 3 Ba - 1800 ft2
+Apartments,2,2,Unfurnished,753,Under Construction,8,1091,East,3+,"₹ 72,29,476","Dhanori Tingre Nagar, Pune, Maharashtra",2 Bds - 2 Ba - 1091 ft2
+Apartments,1,1,Unfurnished,445,Ready to Move,6,585,East,0,"₹ 20,00,000","Dhayri, Pune, Maharashtra",1 Bds - 1 Ba - 585 ft2
+Apartments,2,2,Unfurnished,660,Ready to Move,-,660,-,1,"₹ 17,82,000","Padamavati Chowk, Pune, Maharashtra",2 Bds - 2 Ba - 660 ft2
+Apartments,2,2,Unfurnished,799,New Launch,13,1186,East,1,"₹ 63,00,001","Cantonment Residential Area, Pune, Maharashtra",2 Bds - 2 Ba - 1186 ft2
+Apartments,2,2,Unfurnished,800,Under Construction,25,1158,-,1,"₹ 95,00,000","Warje, Pune, Maharashtra",2 Bds - 2 Ba - 1158 ft2
+Builder Floors,2,2,Semi-Furnished,950,Ready to Move,11,1166,North-West,1,"₹ 1,10,00,000","Kharadi, Pune, Maharashtra",2 Bds - 2 Ba - 1166 ft2
+Apartments,3,3,Semi-Furnished,950,Ready to Move,11,1158,East,1,"₹ 75,00,000","Narhe, Pune, Maharashtra",3 Bds - 3 Ba - 1158 ft2
+Apartments,3,3,Unfurnished,1686,New Launch,35,2000,West,2,"₹ 2,50,00,000","Shivaji Nagar, Pune, Maharashtra",3 Bds - 3 Ba - 2000 ft2
+Apartments,-,-,-,00,-,-,00,-,-,"₹ 2,60,000","Swargate, Pune, Maharashtra",-
+Apartments,1,1,Unfurnished,360,Under Construction,4,480,East,0,"₹ 28,00,000","Wadgaon Sheri, Pune, Maharashtra",1 Bds - 1 Ba - 480 ft2
+Apartments,1,1,-,450,Ready to Move,-,450,-,-,"₹ 13,60,000","Kondhwa Khurd, Pune, Maharashtra",1 Bds - 1 Ba - 450 ft2
+Apartments,3,3,Unfurnished,1687,New Launch,32,2100,West,2,"₹ 2,50,00,000","Erandwane, Pune, Maharashtra",3 Bds - 3 Ba - 2100 ft2
+Apartments,2,2,Furnished,700,Ready to Move,4,750,-,1,"₹ 71,00,000","Kalyani Nagar, Pune, Maharashtra",2 Bds - 2 Ba - 750 ft2
+Apartments,3,2,Unfurnished,770,New Launch,8,1200,East,1,"₹ 61,99,000","Dhanori, Pune, Maharashtra",3 Bds - 2 Ba - 1200 ft2
+Apartments,3,3,Unfurnished,1000,Under Construction,10,1400,East,1,"₹ 75,00,000","Kondhwa, Pune, Maharashtra",3 Bds - 3 Ba - 1400 ft2
+Apartments,3,3,Unfurnished,943,Under Construction,22,1225,East,1,"₹ 1,05,00,000","Koregaon Park Extension, Pune, Maharashtra",3 Bds - 3 Ba - 1225 ft2
+Apartments,1,1,Unfurnished,474,Ready to Move,12,663,East,1,"₹ 29,50,000","Dighi, Pune, Maharashtra",1 Bds - 1 Ba - 663 ft2
+Apartments,1,1,Furnished,445,Ready to Move,6,585,East,0,"₹ 22,00,000","Dhayri, Pune, Maharashtra",1 Bds - 1 Ba - 585 ft2
+Apartments,2,2,Unfurnished,766,New Launch,21,1068,East,1,"₹ 49,00,000","NIBM Road Kondhwa, Pune, Maharashtra",2 Bds - 2 Ba - 1068 ft2
+Apartments,2,2,Unfurnished,780,Ready to Move,12,1000,East,1,"₹ 67,00,000","Dhanori, Pune, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Apartments,2,2,Unfurnished,835,Under Construction,27,1060,East,1,"₹ 95,67,000","Kothrud, Pune, Maharashtra",2 Bds - 2 Ba - 1060 ft2
+Houses & Villas,1,1,Furnished,650,New Launch,1,1000,East,2,"₹ 25,00,000","Warje, Pune, Maharashtra",1 Bds - 1 Ba - 1000 ft2
+Apartments,3,-,Unfurnished,1250,Under Construction,22,1700,East,1,"₹ 1,40,00,000","Hadapsar, Pune, Maharashtra",-
+Apartments,2,2,Furnished,750,Ready to Move,4,1048,North-East,1,"₹ 1,00,00,000","Ghorpadi, Pune, Maharashtra",2 Bds - 2 Ba - 1048 ft2
+Apartments,3,3,Unfurnished,1168,Under Construction,30,1518,East,1,"₹ 1,80,00,000","Hadapsar, Pune, Maharashtra",3 Bds - 3 Ba - 1518 ft2
+Apartments,2,2,Unfurnished,732,Under Construction,10,951,East,1,"₹ 93,00,000","Wadgaon Sheri, Pune, Maharashtra",2 Bds - 2 Ba - 951 ft2
+Apartments,2,2,Unfurnished,838,Under Construction,28,1090,West,1,"₹ 99,00,000","Baner Gaon, Pune, Maharashtra",2 Bds - 2 Ba - 1090 ft2
+Apartments,3,3,Unfurnished,1050,Under Construction,18,1365,East,1,"₹ 1,35,00,000","Kharadi, Pune, Maharashtra",3 Bds - 3 Ba - 1365 ft2
+Apartments,2,2,Unfurnished,717,Under Construction,7,932,East,1,"₹ 80,00,000","Wadgaon Sheri, Pune, Maharashtra",2 Bds - 2 Ba - 932 ft2
+Apartments,2,2,Unfurnished,799,New Launch,13,1118,East,1,"₹ 67,00,009","Ambegaon Kh Part N V, Pune, Maharashtra",2 Bds - 2 Ba - 1118 ft2
+Apartments,4+,4+,Furnished,3600,Ready to Move,-,3600,-,-,"₹ 7,00,00,000","Koregaon park, Pune, Maharashtra",4+ Bds - 4+ Ba - 3600 ft2
+Apartments,2,2,Unfurnished,670,Ready to Move,4,880,East,1,"₹ 58,00,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 880 ft2
+Apartments,3,3,Furnished,1800,Ready to Move,-,1800,-,2,"₹ 2,20,00,000","Kalyani Nagar, Pune, Maharashtra",3 Bds - 3 Ba - 1800 ft2
+Apartments,1,1,Unfurnished,480,Ready to Move,6,600,East,0,"₹ 25,00,000","Ambegaon Pathar, Pune, Maharashtra",1 Bds - 1 Ba - 600 ft2
+Builder Floors,2,2,Unfurnished,790,Under Construction,11,1100,East,1,"₹ 50,00,000","Kondhwa, Pune, Maharashtra",2 Bds - 2 Ba - 1100 ft2
+Apartments,2,2,-,663,Ready to Move,-,663,East,-,"₹ 21,00,000","Kondhwa Khurd, Pune, Maharashtra",2 Bds - 2 Ba - 663 ft2
+Apartments,2,2,Semi-Furnished,745,Ready to Move,16,1045,North-East,1,"₹ 72,72,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 1045 ft2
+Apartments,3,3,Unfurnished,1100,Under Construction,28,1356,West,1,"₹ 1,39,65,236","Baner Road, Pune, Maharashtra",3 Bds - 3 Ba - 1356 ft2
+Apartments,1,2,Semi-Furnished,440,Ready to Move,7,580,West,0,"₹ 36,00,000","Kondhwa Khurd, Pune, Maharashtra",1 Bds - 2 Ba - 580 ft2
+Apartments,2,2,Unfurnished,743,Ready to Move,9,1000,East,1,"₹ 1,05,00,000","Kalyani Nagar, Pune, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Houses & Villas,4,4,Unfurnished,3000,Ready to Move,2,3000,-,1,"₹ 4,00,00,000","Viman Nagar, Pune, Maharashtra",4 Bds - 4 Ba - 3000 ft2
+Apartments,2,2,-,663,Ready to Move,-,663,-,-,"₹ 20,50,000","Kondhwa Khurd, Pune, Maharashtra",2 Bds - 2 Ba - 663 ft2
+Apartments,2,2,-,650,Ready to Move,-,663,-,-,"₹ 21,00,000","Kondhwa Khurd, Pune, Maharashtra",2 Bds - 2 Ba - 663 ft2
+Apartments,2,2,Unfurnished,799,New Launch,13,1118,East,1,"₹ 67,00,001","Kondhwa Khurd, Pune, Maharashtra",2 Bds - 2 Ba - 1118 ft2
+Apartments,2,2,Unfurnished,740,Ready to Move,12,900,East,1,"₹ 52,00,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 900 ft2
+Apartments,3,3,Unfurnished,1054,Under Construction,13,1370,East,1,"₹ 1,44,00,000","Koregaon Park Extension, Pune, Maharashtra",3 Bds - 3 Ba - 1370 ft2
+Apartments,3,3,Unfurnished,1141,Under Construction,10,1141,East,1,"₹ 1,75,00,000","Baner, Pune, Maharashtra",3 Bds - 3 Ba - 1141 ft2
+Apartments,2,2,-,660,Ready to Move,-,663,-,-,"₹ 21,00,000","Kondhwa Khurd, Pune, Maharashtra",2 Bds - 2 Ba - 663 ft2
+Apartments,2,2,Semi-Furnished,850,Ready to Move,11,1000,East,1,"₹ 77,00,000","Sinhagad Road, Pune, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Apartments,1,1,Furnished,353,Ready to Move,5,415,East,0,"₹ 40,00,000","Somwar Peth, Pune, Maharashtra",1 Bds - 1 Ba - 415 ft2
+Apartments,3,3,Semi-Furnished,1100,Ready to Move,4,1400,North-East,1,"₹ 1,04,00,000","Hadapsar, Pune, Maharashtra",3 Bds - 3 Ba - 1400 ft2
+Apartments,1,1,Unfurnished,805,Ready to Move,-,805,East,0,"₹ 50,71,500","Hingne Khurd, Pune, Maharashtra",1 Bds - 1 Ba - 805 ft2
+Builder Floors,1,1,Unfurnished,337,New Launch,8,450,South,0,"₹ 33,00,000","Ganj Peth, Pune, Maharashtra",1 Bds - 1 Ba - 450 ft2
+Apartments,2,2,Unfurnished,600,Ready to Move,5,750,East,0,"₹ 32,00,000","Ambegaon Pathar, Pune, Maharashtra",2 Bds - 2 Ba - 750 ft2
+Apartments,2,2,Unfurnished,674,New Launch,20,876,East,1,"₹ 60,00,000","Nanded City, Pune, Maharashtra",2 Bds - 2 Ba - 876 ft2
+Apartments,1,1,Unfurnished,415,Ready to Move,4,560,East,0,"₹ 30,00,000","Wadgaon Sheri, Pune, Maharashtra",1 Bds - 1 Ba - 560 ft2
+Apartments,2,2,Unfurnished,1141,Under Construction,32,1490,East,1,"₹ 1,75,00,000","Baner Road, Pune, Maharashtra",2 Bds - 2 Ba - 1490 ft2
+Apartments,4+,4+,Furnished,2190,Ready to Move,-,2320,East,-,"₹ 3,80,00,000","Sangamwadi, Pune, Maharashtra",4+ Bds - 4+ Ba - 2320 ft2
+Apartments,4,4,Unfurnished,1760,Under Construction,30,2288,East,2,"₹ 2,37,00,000","Hadapsar, Pune, Maharashtra",4 Bds - 4 Ba - 2288 ft2
+Builder Floors,2,2,-,850,Ready to Move,-,855,-,-,"₹ 27,50,000","Kondhwa Khurd, Pune, Maharashtra",2 Bds - 2 Ba - 855 ft2
+Apartments,2,2,Unfurnished,675,New Launch,22,860,East,1,"₹ 56,00,000","Viman Nagar, Pune, Maharashtra",2 Bds - 2 Ba - 860 ft2
+Builder Floors,4,4,Semi-Furnished,2200,Ready to Move,-,2200,-,2,"₹ 3,49,00,000","Kalyani Nagar, Pune, Maharashtra",4 Bds - 4 Ba - 2200 ft2
+Builder Floors,1,1,Unfurnished,475,Ready to Move,3,625,-,0,"₹ 39,00,000","Mundhwa Pingale Wasti, Pune, Maharashtra",1 Bds - 1 Ba - 625 ft2
+Builder Floors,4+,4+,Unfurnished,4200,Ready to Move,-,4200,-,2,"₹ 4,40,00,000","Kharadi, Pune, Maharashtra",4+ Bds - 4+ Ba - 4200 ft2
+Apartments,2,2,Unfurnished,760,Under Construction,15,988,East,1,"₹ 94,00,000","Kharadi, Pune, Maharashtra",2 Bds - 2 Ba - 988 ft2
+Apartments,2,2,Unfurnished,847,Under Construction,13,1101,East,1,"₹ 96,00,000","Koregaon Park Extension, Pune, Maharashtra",2 Bds - 2 Ba - 1101 ft2
+Apartments,2,2,Unfurnished,950,Ready to Move,11,1300,East,1,"₹ 52,00,000","Kondhwa, Pune, Maharashtra",2 Bds - 2 Ba - 1300 ft2
+Apartments,1,1,Unfurnished,452,Ready to Move,5,540,West,1,"₹ 18,00,000","Kondhwa Khurd, Pune, Maharashtra",1 Bds - 1 Ba - 540 ft2
+Apartments,2,2,Unfurnished,950,Ready to Move,9,1200,East,1,"₹ 47,50,000","Salunke Vihar, Pune, Maharashtra",2 Bds - 2 Ba - 1200 ft2
+Builder Floors,1,1,Unfurnished,430,Ready to Move,1,380,North-East,0,"₹ 15,00,000","Yerwada, Pune, Maharashtra",1 Bds - 1 Ba - 380 ft2
+Apartments,2,2,Unfurnished,591,-,8,798,North-East,1,"₹ 55,55,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 798 ft2
+Apartments,1,1,Unfurnished,444,Ready to Move,6,577,East,0,"₹ 22,00,000","Narhe, Pune, Maharashtra",1 Bds - 1 Ba - 577 ft2
+Builder Floors,4+,4+,Furnished,4700,Ready to Move,-,4700,-,2,"₹ 6,99,00,000","Kalyani Nagar, Pune, Maharashtra",4+ Bds - 4+ Ba - 4700 ft2
+Apartments,3,3,Unfurnished,1361,Under Construction,10,1361,North,1,"₹ 2,05,00,000","Baner, Pune, Maharashtra",3 Bds - 3 Ba - 1361 ft2
+Apartments,1,1,Unfurnished,450,Ready to Move,-,450,East,0,"₹ 10,12,500","Dhanori, Pune, Maharashtra",1 Bds - 1 Ba - 450 ft2
+Apartments,4,4,Semi-Furnished,1750,Ready to Move,-,1800,-,1,"₹ 1,80,00,000","Kalyani Nagar, Pune, Maharashtra",4 Bds - 4 Ba - 1800 ft2
+Apartments,2,2,Unfurnished,779,Under Construction,12,1050,East,1,"₹ 47,00,000","Kondhwa Khurd, Pune, Maharashtra",2 Bds - 2 Ba - 1050 ft2
+Apartments,2,2,Semi-Furnished,800,Ready to Move,32,950,East,1,"₹ 90,00,000","Nanded City, Pune, Maharashtra",2 Bds - 2 Ba - 950 ft2
+Apartments,4,4,Semi-Furnished,2982,Ready to Move,18,4260,East,1,"₹ 8,70,00,000","Kalyani Nagar, Pune, Maharashtra",4 Bds - 4 Ba - 4260 ft2
+Apartments,2,2,Unfurnished,775,Under Construction,18,1007,East,1,"₹ 94,00,000","Kharadi, Pune, Maharashtra",2 Bds - 2 Ba - 1007 ft2
+Apartments,4+,4,Unfurnished,1588,Under Construction,16,1618,East,1,"₹ 1,90,00,000","Kharadi, Pune, Maharashtra",4+ Bds - 4 Ba - 1618 ft2
+Apartments,4+,4+,Semi-Furnished,3800,Ready to Move,11,4800,-,2,"₹ 5,00,00,000","Magarpatta City, Pune, Maharashtra",4+ Bds - 4+ Ba - 4800 ft2
+Apartments,2,2,Semi-Furnished,1000,Ready to Move,6,1200,East,1,"₹ 69,00,000","Bhawani Peth, Pune, Maharashtra",2 Bds - 2 Ba - 1200 ft2
+Apartments,1,1,Unfurnished,450,Ready to Move,8,650,East,0,"₹ 58,00,000","Kasba peth, Pune, Maharashtra",1 Bds - 1 Ba - 650 ft2
+Apartments,2,2,Unfurnished,750,Under Construction,14,1100,East,1,"₹ 72,50,000","Kondhwa Khurd, Pune, Maharashtra",2 Bds - 2 Ba - 1100 ft2
+Apartments,2,2,Semi-Furnished,900,Ready to Move,6,940,North,1,"₹ 80,00,000","Wanwadi, Pune, Maharashtra",2 Bds - 2 Ba - 940 ft2
+Apartments,2,2,Unfurnished,710,Under Construction,15,1000,East,1,"₹ 45,00,000","NIBM, Pune, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Apartments,2,2,Semi-Furnished,720,Ready to Move,11,890,East,1,"₹ 20,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 890 ft2
+Apartments,2,2,Unfurnished,700,Under Construction,11,980,East,1,"₹ 42,00,000","Pisoli, Pune, Maharashtra",2 Bds - 2 Ba - 980 ft2
+Apartments,1,1,Unfurnished,409,New Launch,10,570,West,1,"₹ 19,00,000","Bhosari Anand Industrial Area, Pune, Maharashtra",1 Bds - 1 Ba - 570 ft2
+Apartments,2,2,Unfurnished,610,Under Construction,11,793,East,1,"₹ 61,00,000","Hadapsar, Pune, Maharashtra",2 Bds - 2 Ba - 793 ft2
+Apartments,1,1,Unfurnished,773,Under Construction,12,1050,East,1,"₹ 70,00,000","Vishrant Wadi, Pune, Maharashtra",1 Bds - 1 Ba - 1050 ft2
+Houses & Villas,-,-,-,450,Ready to Move,-,500,East,-,"₹ 17,00,000","Bopodi, Pune, Maharashtra",-
+Apartments,4,4,Unfurnished,1600,Under Construction,27,2200,West,1,"₹ 1,98,00,000","Baner Road, Pune, Maharashtra",4 Bds - 4 Ba - 2200 ft2
+Builder Floors,2,2,Semi-Furnished,650,Ready to Move,4,750,North-East,1,"₹ 60,00,000","Dighi, Pune, Maharashtra",2 Bds - 2 Ba - 750 ft2
+Apartments,3,3,Unfurnished,1056,Under Construction,35,1289,West,1,"₹ 1,25,00,000","Baner, Pune, Maharashtra",3 Bds - 3 Ba - 1289 ft2
+Houses & Villas,2,4,Unfurnished,1000,Under Construction,3,1800,-,1,"₹ 38,00,000","Ghorpadi Empress Garden Society, Pune, Maharashtra",2 Bds - 4 Ba - 1800 ft2
+Apartments,1,2,Unfurnished,441,Ready to Move,6,617,East,0,"₹ 63,00,000","Shukrawar Peth, Pune, Maharashtra",1 Bds - 2 Ba - 617 ft2
+Apartments,2,2,Semi-Furnished,700,Ready to Move,9,1050,East,1,"₹ 1,20,00,000","Kalyani Nagar, Pune, Maharashtra",2 Bds - 2 Ba - 1050 ft2
+Apartments,-,-,Unfurnished,450,Ready to Move,6,650,East,0,"₹ 25,00,000","Hadapsar, Pune, Maharashtra",-
+Apartments,2,2,Unfurnished,787,Under Construction,21,1023,East,1,"₹ 72,00,000","Dhanori, Pune, Maharashtra",2 Bds - 2 Ba - 1023 ft2
+Builder Floors,2,2,Furnished,715,Ready to Move,650,1015,East,1,"₹ 63,00,000","Pisoli, Pune, Maharashtra",2 Bds - 2 Ba - 1015 ft2
+Apartments,2,2,Semi-Furnished,780,Under Construction,23,1050,East,1,"₹ 76,00,000","Kharadi, Pune, Maharashtra",2 Bds - 2 Ba - 1050 ft2
+Apartments,3,3,Unfurnished,1181,Under Construction,30,1535,East,1,"₹ 1,60,00,000","Hadapsar, Pune, Maharashtra",3 Bds - 3 Ba - 1535 ft2
+Apartments,1,1,Unfurnished,441,Under Construction,8,741,North-East,1,"₹ 40,40,000","Hadapsar, Pune, Maharashtra",1 Bds - 1 Ba - 741 ft2
+Apartments,4,3,-,1350,Ready to Move,-,1380,-,-,"₹ 44,00,000","Kondhwa Khurd, Pune, Maharashtra",4 Bds - 3 Ba - 1380 ft2
+Apartments,1,1,Semi-Furnished,530,Ready to Move,3,694,North-East,0,"₹ 90,00,000","Chatushrungi Temple, Pune, Maharashtra",1 Bds - 1 Ba - 694 ft2
+Builder Floors,3,3,Unfurnished,1250,Ready to Move,14,1700,East,2,"₹ 1,70,00,000","Kharadi, Pune, Maharashtra",3 Bds - 3 Ba - 1700 ft2
+Apartments,2,2,Unfurnished,7000,Ready to Move,7,1000,East,1,"₹ 85,00,000","Baner, Pune, Maharashtra",2 Bds - 2 Ba - 1000 ft2

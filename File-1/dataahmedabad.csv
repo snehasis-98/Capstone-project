@@ -1,0 +1,302 @@
+Property type,Bedroom,Bathroom,Furnished Status,Carpet Area,Construction Status,Floor No,SquareFeet,Facing,Car Parking,Total Price (INR),Address,BHK
+Apartments,2,2,Semi-Furnished,900,Ready to Move,4,1080,East,1,"₹ 30,00,000","Ghodasar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1080 ft2
+Apartments,1,1,Unfurnished,0,Ready to Move,2,65,East,0,"₹ 17,00,000","Khadia, Ahmedabad, Gujarat",1 Bds - 1 Ba - 65 ft2
+Apartments,1,1,Semi-Furnished,642,Ready to Move,4,642,East,-,"₹ 23,00,000","Bhavan Society, Ahmedabad, Gujarat",1 Bds - 1 Ba - 642 ft2
+Houses & Villas,2,2,Unfurnished,30,Ready to Move,0,30,-,0,"₹ 15,00,000","Dani Limda, Ahmedabad, Gujarat",2 Bds - 2 Ba - 30 ft2
+Houses & Villas,2,2,Unfurnished,599,Ready to Move,2,1184,East,1,"₹ 77,00,000","Bapu Nagar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1184 ft2
+Houses & Villas,3,3,Unfurnished,1908,Ready to Move,1,2925,East,1,"₹ 4,00,00,000","Usmanpura, Ahmedabad, Gujarat",3 Bds - 3 Ba - 2925 ft2
+Apartments,3,3,Semi-Furnished,1530,Ready to Move,10,1800,East,1,"₹ 90,00,000","Ambavadi, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1800 ft2
+Apartments,3,3,Semi-Furnished,1495,Ready to Move,4,1495,-,1,"₹ 65,00,000","Navrangpura, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1495 ft2
+Apartments,2,1,Unfurnished,10,Under Construction,2,10,East,0,"₹ 14,50,000","Shahpur, Ahmedabad, Gujarat",2 Bds - 1 Ba - 10 ft2
+Apartments,3,3,Furnished,1350,Ready to Move,07,2079,North,1,"₹ 1,60,00,000","Navrangpura, Ahmedabad, Gujarat",3 Bds - 3 Ba - 2079 ft2
+Apartments,2,2,Furnished,700,Ready to Move,7,1170,-,1,"₹ 40,00,000","New Maninagar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1170 ft2
+Builder Floors,1,2,Furnished,65,Ready to Move,4,1200,North-East,0,"₹ 23,00,000","Raikhad, Ahmedabad, Gujarat",1 Bds - 2 Ba - 1200 ft2
+Houses & Villas,4,2,Unfurnished,1000,Ready to Move,2,800,-,2,"₹ 45,00,000","Tulsi Nagar, Ahmedabad, Gujarat",4 Bds - 2 Ba - 800 ft2
+Apartments,3,3,Furnished,1404,Ready to Move,4,2160,North,1,"₹ 1,50,00,000","Paldi, Ahmedabad, Gujarat",3 Bds - 3 Ba - 2160 ft2
+Houses & Villas,3,3,Semi-Furnished,120,Ready to Move,2,1080,North,1,"₹ 1,40,00,000","Nirnay Nagar, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1080 ft2
+Apartments,2,1,Semi-Furnished,105,Ready to Move,5,105,East,1,"₹ 25,00,000","Saraspur Village, Ahmedabad, Gujarat",2 Bds - 1 Ba - 105 ft2
+Apartments,2,2,Semi-Furnished,990,Ready to Move,4,1125,East,2,"₹ 78,00,000","Shahibag, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1125 ft2
+Houses & Villas,4,4+,Unfurnished,3330,Ready to Move,2,3375,North-East,1,"₹ 2,70,00,000","Memnagar, Ahmedabad, Gujarat",4 Bds - 4+ Ba - 3375 ft2
+Houses & Villas,2,2,Unfurnished,2700,Ready to Move,3,2700,-,0,"₹ 27,00,000","Jamalpur, Ahmedabad, Gujarat",2 Bds - 2 Ba - 2700 ft2
+Apartments,2,2,Furnished,1134,Ready to Move,5,1134,East,1,"₹ 40,00,000","Chandkheda, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1134 ft2
+Apartments,3,1,Furnished,1170,Ready to Move,1,1250,-,2,"₹ 83,00,000","Digvijay Nagar, Ahmedabad, Gujarat",3 Bds - 1 Ba - 1250 ft2
+Apartments,2,2,Semi-Furnished,0,Ready to Move,7,1188,East,1,"₹ 48,00,000","Vastral, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1188 ft2
+Apartments,3,4,Furnished,2000,Ready to Move,3,00,-,-,"₹ 1,50,00,000","Nava Vadaj, Ahmedabad, Gujarat",3 Bds - 4 Ba - 00 ft2
+Apartments,1,1,Unfurnished,500,Ready to Move,10,600,West,1,"₹ 22,00,000","Haripura, Ahmedabad, Gujarat",1 Bds - 1 Ba - 600 ft2
+Apartments,1,2,Semi-Furnished,535,Ready to Move,3,535,East,0,"₹ 35,00,000","Ranip, Ahmedabad, Gujarat",1 Bds - 2 Ba - 535 ft2
+Apartments,1,2,Semi-Furnished,230,Ready to Move,4,275,West,1,"₹ 22,00,000","Saraspur, Ahmedabad, Gujarat",1 Bds - 2 Ba - 275 ft2
+Apartments,2,2,Furnished,140,Ready to Move,10,1260,North-East,1,"₹ 61,00,000","Zundal, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1260 ft2
+Apartments,2,2,Semi-Furnished,720,Ready to Move,5,1035,North,2,"₹ 38,00,000","Ghodasar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1035 ft2
+Apartments,2,2,Semi-Furnished,900,Ready to Move,5,900,East,1,"₹ 25,00,000","Bapu Nagar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 900 ft2
+Houses & Villas,3,2,Unfurnished,1170,Ready to Move,2,1170,North-East,1,"₹ 1,25,00,000","Ranip, Ahmedabad, Gujarat",3 Bds - 2 Ba - 1170 ft2
+Houses & Villas,2,1,Semi-Furnished,120,Ready to Move,3,140,-,1,"₹ 23,50,000","Amraiwadi, Ahmedabad, Gujarat",2 Bds - 1 Ba - 140 ft2
+Apartments,3,3,Furnished,1485,Ready to Move,9,2700,-,2,"₹ 2,29,50,000","Ellis Bridge, Ahmedabad, Gujarat",3 Bds - 3 Ba - 2700 ft2
+Houses & Villas,3,3,Furnished,110,Ready to Move,3,110,North-West,1,"₹ 1,80,00,000","Ranip, Ahmedabad, Gujarat",3 Bds - 3 Ba - 110 ft2
+Builder Floors,2,3,Semi-Furnished,00,Ready to Move,6,00,-,0,"₹ 47,00,000","Shahpur, Ahmedabad, Gujarat",2 Bds - 3 Ba - 00 ft2
+Apartments,2,2,Semi-Furnished,900,Ready to Move,7,1100,West,0,"₹ 37,00,000","Vastral, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1100 ft2
+Apartments,3,3,Furnished,1458,Ready to Move,5,1827,East,1,"₹ 1,25,00,000","Paldi, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1827 ft2
+Builder Floors,1,1,Unfurnished,504,Ready to Move,2,504,North,0,"₹ 13,00,000","Khadia, Ahmedabad, Gujarat",1 Bds - 1 Ba - 504 ft2
+Houses & Villas,2,1,Unfurnished,400,Ready to Move,2,400,-,1,"₹ 17,00,000","Tulsi Nagar, Ahmedabad, Gujarat",2 Bds - 1 Ba - 400 ft2
+Apartments,4,4,Semi-Furnished,1575,Ready to Move,10,1800,North-East,1,"₹ 1,10,00,000","Ambavadi, Ahmedabad, Gujarat",4 Bds - 4 Ba - 1800 ft2
+Houses & Villas,4+,4+,Unfurnished,4758,Ready to Move,3,5598,East,1,"₹ 5,51,00,000","Ambavadi, Ahmedabad, Gujarat",4+ Bds - 4+ Ba - 5598 ft2
+Apartments,3,3,Unfurnished,820,Ready to Move,13,1840,East,1,"₹ 68,00,000","Zundal, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1840 ft2
+Apartments,4,4,Furnished,3000,Under Construction,14,4400,West,2,"₹ 1,98,00,000","Jagatpur Village, Ahmedabad, Gujarat",4 Bds - 4 Ba - 4400 ft2
+Apartments,1,1,Unfurnished,115,Ready to Move,7,118,North-West,2,"₹ 34,00,000","Ranip, Ahmedabad, Gujarat",1 Bds - 1 Ba - 118 ft2
+Apartments,4,4,Semi-Furnished,148,Ready to Move,1,255,North,3+,"₹ 1,65,00,000","Dudheshwar, Ahmedabad, Gujarat",4 Bds - 4 Ba - 255 ft2
+Apartments,3,2,Furnished,128,Ready to Move,4,128,East,1,"₹ 1,10,00,000","Paldi, Ahmedabad, Gujarat",3 Bds - 2 Ba - 128 ft2
+Apartments,3,3,Semi-Furnished,1170,Ready to Move,9,1386,South,1,"₹ 65,00,000","Vasna, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1386 ft2
+Houses & Villas,4+,4+,Unfurnished,5850,Ready to Move,1,5850,North,1,"₹ 1,90,00,000","Gheekanta, Ahmedabad, Gujarat",4+ Bds - 4+ Ba - 5850 ft2
+Apartments,4,2,Semi-Furnished,150,Ready to Move,2,250,-,0,"₹ 90,00,000","Dhobighat, Ahmedabad, Gujarat",4 Bds - 2 Ba - 250 ft2
+Houses & Villas,4+,4,Semi-Furnished,2673,Ready to Move,1,3150,East,1,"₹ 5,40,00,000","Ambavadi, Ahmedabad, Gujarat",4+ Bds - 4 Ba - 3150 ft2
+Apartments,1,1,Semi-Furnished,75,Ready to Move,4,75,East,1,"₹ 15,00,000","Ghodasar, Ahmedabad, Gujarat",1 Bds - 1 Ba - 75 ft2
+Houses & Villas,4+,4,Semi-Furnished,4203,Ready to Move,1,4950,West,1,"₹ 4,50,00,000","Paldi, Ahmedabad, Gujarat",4+ Bds - 4 Ba - 4950 ft2
+Apartments,3,3,Unfurnished,1114,Under Construction,13,2025,North-East,1,"₹ 1,43,77,500","Panjara Pol, Ahmedabad, Gujarat",3 Bds - 3 Ba - 2025 ft2
+Apartments,2,2,Semi-Furnished,110,Ready to Move,10,110,East,0,"₹ 41,00,000","Mani Nagar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 110 ft2
+Houses & Villas,4,3,Semi-Furnished,800,Ready to Move,3,80,East,0,"₹ 49,00,000","Khanpur, Ahmedabad, Gujarat",4 Bds - 3 Ba - 80 ft2
+Apartments,3,2,Furnished,1600,Ready to Move,5,1600,North-East,2,"₹ 10,000","Ambavadi, Ahmedabad, Gujarat",3 Bds - 2 Ba - 1600 ft2
+Houses & Villas,3,2,Unfurnished,510,Ready to Move,1,512,-,0,"₹ 26,00,000","Bapu Nagar, Ahmedabad, Gujarat",3 Bds - 2 Ba - 512 ft2
+Apartments,3,3,Furnished,1100,Ready to Move,14,1650,North-East,1,"₹ 95,00,000","Naranpura, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1650 ft2
+Houses & Villas,4+,2,Unfurnished,1500,Ready to Move,3,85,West,1,"₹ 75,00,000","Asarwa, Ahmedabad, Gujarat",4+ Bds - 2 Ba - 85 ft2
+Apartments,2,2,Unfurnished,950,Ready to Move,3,1152,-,1,"₹ 54,00,000","Kankaria, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1152 ft2
+Apartments,4,3,Semi-Furnished,0,Ready to Move,7,2097,North,1,"₹ 1,45,00,000","Navrangpura, Ahmedabad, Gujarat",4 Bds - 3 Ba - 2097 ft2
+Apartments,3,2,Unfurnished,900,Ready to Move,7,1350,North-East,1,"₹ 60,00,000","Motera, Ahmedabad, Gujarat",3 Bds - 2 Ba - 1350 ft2
+Apartments,2,2,Semi-Furnished,810,Ready to Move,4,90,West,0,"₹ 50,00,000","Nava Vadaj, Ahmedabad, Gujarat",2 Bds - 2 Ba - 90 ft2
+Apartments,1,1,Unfurnished,950,Ready to Move,2,1100,East,-,"₹ 37,00,000","Naranpura, Ahmedabad, Gujarat",1 Bds - 1 Ba - 1100 ft2
+Houses & Villas,1,1,Semi-Furnished,270,Ready to Move,2,310,-,-,"₹ 11,51,000","Thakkarbapu Nagar, Ahmedabad, Gujarat",1 Bds - 1 Ba - 310 ft2
+Houses & Villas,1,1,Unfurnished,40,Ready to Move,-,40,-,1,"₹ 18,00,000","Bapu Nagar, Ahmedabad, Gujarat",1 Bds - 1 Ba - 40 ft2
+Houses & Villas,2,2,Furnished,850,Ready to Move,0,1100,North-East,2,"₹ 1,49,00,000","Shahibag, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1100 ft2
+Apartments,3,3,Unfurnished,1155,Ready to Move,11,1863,East,1,"₹ 1,05,00,000","Gota, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1863 ft2
+Apartments,2,2,Furnished,124,Ready to Move,5,124,East,1,"₹ 39,00,000","Nikol, Ahmedabad, Gujarat",2 Bds - 2 Ba - 124 ft2
+Apartments,3,2,Semi-Furnished,150,Ready to Move,1,150,East,1,"₹ 60,00,000","Nava Vadaj, Ahmedabad, Gujarat",3 Bds - 2 Ba - 150 ft2
+Apartments,3,3,Semi-Furnished,1000,Ready to Move,4,1404,North,1,"₹ 70,00,000","Navrangpura, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1404 ft2
+Apartments,2,2,Furnished,648,Ready to Move,3,900,East,1,"₹ 44,00,000","Old Vadaj, Ahmedabad, Gujarat",2 Bds - 2 Ba - 900 ft2
+Apartments,1,1,Unfurnished,640,Ready to Move,4,850,North-East,1,"₹ 15,00,000","Bapu Nagar, Ahmedabad, Gujarat",1 Bds - 1 Ba - 850 ft2
+Apartments,1,1,Semi-Furnished,75,Ready to Move,6,75,East,0,"₹ 15,00,000","Khanpur,  Ahmedabad, Gujarat",1 Bds - 1 Ba - 75 ft2
+Apartments,2,2,Semi-Furnished,105,Under Construction,5,70,South,1,"₹ 23,00,000","Narol, Ahmedabad, Gujarat",2 Bds - 2 Ba - 70 ft2
+Apartments,2,3,Furnished,45,Ready to Move,2,90,North-East,0,"₹ 50,00,000","Danilimda, Ahmedabad, Gujarat",2 Bds - 3 Ba - 90 ft2
+Houses & Villas,3,3,Furnished,375,Ready to Move,3,375,East,0,"₹ 48,00,000","Gheekanta, Ahmedabad, Gujarat",3 Bds - 3 Ba - 375 ft2
+Houses & Villas,3,3,Semi-Furnished,150,Ready to Move,1,1350,North-East,1,"₹ 2,00,00,000","Thaltej, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1350 ft2
+Apartments,3,3,Unfurnished,1250,Ready to Move,5,2000,North-East,1,"₹ 85,00,000","Nava Vadaj, Ahmedabad, Gujarat",3 Bds - 3 Ba - 2000 ft2
+Apartments,2,2,Semi-Furnished,100,Ready to Move,7,900,North-East,1,"₹ 40,00,000","Chandkheda, Ahmedabad, Gujarat",2 Bds - 2 Ba - 900 ft2
+Apartments,1,1,Semi-Furnished,612,Ready to Move,4,612,East,0,"₹ 22,00,000","Ranip, Ahmedabad, Gujarat",1 Bds - 1 Ba - 612 ft2
+Apartments,3,2,Furnished,320,Ready to Move,12,2880,North-East,1,"₹ 1,50,00,000","Chandkheda, Ahmedabad, Gujarat",3 Bds - 2 Ba - 2880 ft2
+Apartments,3,3,Unfurnished,990,Ready to Move,12,1800,East,1,"₹ 91,00,000","Gota, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1800 ft2
+Houses & Villas,2,2,Semi-Furnished,700,Ready to Move,2,900,North-West,2,"₹ 72,00,000","Chandkheda, Ahmedabad, Gujarat",2 Bds - 2 Ba - 900 ft2
+Apartments,2,2,Furnished,980,Ready to Move,5,1170,North,0,"₹ 51,00,000","Chandlodia, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1170 ft2
+Houses & Villas,4,4,Semi-Furnished,4500,Ready to Move,2,5000,-,2,"₹ 4,50,00,000","Navrangpura, Ahmedabad, Gujarat",4 Bds - 4 Ba - 5000 ft2
+Apartments,2,2,Semi-Furnished,860,Ready to Move,5,1225,East,1,"₹ 42,00,000","Chandkheda, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1225 ft2
+-,-,-,-,-,-,-,-,-,-,-,-,-
+Apartments,2,2,Unfurnished,100,New Launch,12,140,-,1,"₹ 32,50,000","Naroda Ring Road, Ahmedabad, Gujarat",2 Bds - 2 Ba - 140 ft2
+Apartments,2,2,Semi-Furnished,738,Ready to Move,13,1210,-,1,"₹ 62,00,000","Gota, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1210 ft2
+Houses & Villas,3,2,Semi-Furnished,900,Ready to Move,1,30,West,1,"₹ 58,00,000","Arbuda Nagar, Ahmedabad, Gujarat",3 Bds - 2 Ba - 30 ft2
+Houses & Villas,4+,4+,Semi-Furnished,2340,Ready to Move,4,3600,East,1,"₹ 98,00,000","Shahpur, Ahmedabad, Gujarat",4+ Bds - 4+ Ba - 3600 ft2
+Apartments,2,2,Semi-Furnished,100,Ready to Move,2,125,West,1,"₹ 50,00,000","Rambaug, Ahmedabad, Gujarat",2 Bds - 2 Ba - 125 ft2
+Apartments,3,3,Semi-Furnished,1650,Ready to Move,10,2000,-,1,"₹ 1,45,00,000","Naranpura, Ahmedabad, Gujarat",3 Bds - 3 Ba - 2000 ft2
+-,-,-,-,-,-,-,-,-,-,-,-,-
+Apartments,2,2,Semi-Furnished,989,Ready to Move,3,1125,East,1,"₹ 60,00,000","Maninagar East, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1125 ft2
+Apartments,3,3,Furnished,1100,Ready to Move,14,1650,North-East,1,"₹ 95,00,000","Naranpura, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1650 ft2
+Apartments,2,2,Semi-Furnished,900,Ready to Move,10,1215,North,1,"₹ 56,00,000","Motera, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1215 ft2
+Houses & Villas,2,1,Unfurnished,765,Ready to Move,1,900,West,1,"₹ 1,50,00,000","Paldi, Ahmedabad, Gujarat",2 Bds - 1 Ba - 900 ft2
+Apartments,1,1,Semi-Furnished,100,Ready to Move,7,80,-,1,"₹ 33,00,000","CP Nagar, Ahmedabad, Gujarat",1 Bds - 1 Ba - 80 ft2
+Apartments,3,2,Furnished,205,Ready to Move,10,1845,North-East,1,"₹ 1,10,00,000","Jagatpur, Ahmedabad, Gujarat",3 Bds - 2 Ba - 1845 ft2
+Apartments,2,2,Semi-Furnished,1143,Ready to Move,5,1224,South-East,1,"₹ 69,00,000","New Ranip, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1224 ft2
+Apartments,1,1,Furnished,559,Ready to Move,5,648,East,1,"₹ 35,00,000","Nirnay Nagar, Ahmedabad, Gujarat",1 Bds - 1 Ba - 648 ft2
+Apartments,2,2,Semi-Furnished,909,Ready to Move,7,1170,East,1,"₹ 75,00,000","Nava Vadaj, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1170 ft2
+Apartments,1,1,Furnished,529,Ready to Move,5,765,-,-,"₹ 25,51,000","Nikol - Naroda Road, Ahmedabad, Gujarat",1 Bds - 1 Ba - 765 ft2
+Apartments,2,2,Furnished,90,Ready to Move,5,105,East,1,"₹ 60,00,000","Karmchari Nagar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 105 ft2
+Apartments,3,3,Unfurnished,1400,Ready to Move,4,2700,East,1,"₹ 75,00,000","Ambavadi, Ahmedabad, Gujarat",3 Bds - 3 Ba - 2700 ft2
+Builder Floors,2,2,Furnished,780,Ready to Move,7,1188,South-East,1,"₹ 70,00,000","Nava Vadaj, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1188 ft2
+Houses & Villas,4,4+,Furnished,2000,Ready to Move,2,3500,West,2,"₹ 1,20,00,000","Bapu Nagar, Ahmedabad, Gujarat",4 Bds - 4+ Ba - 3500 ft2
+Apartments,1,1,Unfurnished,675,Ready to Move,5,675,East,0,"₹ 35,00,000","Nava Vadaj, Ahmedabad, Gujarat",1 Bds - 1 Ba - 675 ft2
+Apartments,3,3,Furnished,1240,Ready to Move,4,1540,East,1,"₹ 1,10,00,000","Usmanpura, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1540 ft2
+Builder Floors,1,1,Semi-Furnished,840,Ready to Move,7,840,South,0,"₹ 21,00,000","132 Feet Ring Road, Ahmedabad, Gujarat",1 Bds - 1 Ba - 840 ft2
+Apartments,2,1,Furnished,100,Ready to Move,2,100,-,0,"₹ 50,00,000","Paldi, Ahmedabad, Gujarat",2 Bds - 1 Ba - 100 ft2
+Apartments,3,3,Unfurnished,1150,Under Construction,14,2286,West,2,"₹ 97,00,000","Pritam Nagar, Ahmedabad, Gujarat",3 Bds - 3 Ba - 2286 ft2
+Apartments,3,2,Furnished,1170,Ready to Move,8,1350,East,1,"₹ 80,00,000","Naranpura, Ahmedabad, Gujarat",3 Bds - 2 Ba - 1350 ft2
+Apartments,4+,4+,Semi-Furnished,2340,Ready to Move,2,2925,East,1,"₹ 2,10,00,000","Nava Vadaj, Ahmedabad, Gujarat",4+ Bds - 4+ Ba - 2925 ft2
+Houses & Villas,4+,4+,Unfurnished,400,Ready to Move,-,450,East,-,"₹ 2,41,00,000","Navrangpura, Ahmedabad, Gujarat",4+ Bds - 4+ Ba - 450 ft2
+Apartments,2,2,Semi-Furnished,800,Ready to Move,7,1089,East,1,"₹ 44,00,000","Chandkheda, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1089 ft2
+Apartments,3,2,Semi-Furnished,1170,Ready to Move,8,1647,East,1,"₹ 80,00,000","Ellis Bridge, Ahmedabad, Gujarat",3 Bds - 2 Ba - 1647 ft2
+Houses & Villas,2,1,Unfurnished,350,Ready to Move,1,350,East,2,"₹ 2,25,00,000","Ranip, Ahmedabad, Gujarat",2 Bds - 1 Ba - 350 ft2
+Houses & Villas,2,2,Unfurnished,60,Ready to Move,2,60,East,1,"₹ 35,00,000","Bapu Nagar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 60 ft2
+Apartments,3,3,Furnished,1290,Ready to Move,7,1890,-,-,"₹ 1,32,00,000","Navrangpura, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1890 ft2
+Apartments,2,3,Furnished,880,Ready to Move,7,975,West,1,"₹ 67,00,000","Chandkheda, Ahmedabad, Gujarat",2 Bds - 3 Ba - 975 ft2
+Apartments,4,4+,Furnished,2285,Ready to Move,14,2940,East,1,"₹ 4,75,00,000","Ellis Bridge, Ahmedabad, Gujarat",4 Bds - 4+ Ba - 2940 ft2
+Builder Floors,1,1,Unfurnished,300,Ready to Move,5,300,North,1,"₹ 18,50,000","Ranip, Ahmedabad, Gujarat",1 Bds - 1 Ba - 300 ft2
+Apartments,4,4,Furnished,285,New Launch,5,285,East,2,"₹ 1,30,00,000","Paldi, Ahmedabad, Gujarat",4 Bds - 4 Ba - 285 ft2
+Apartments,2,2,Furnished,675,Ready to Move,10,990,-,0,"₹ 68,00,000","Karmchari Nagar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 990 ft2
+Houses & Villas,2,2,Semi-Furnished,535,Ready to Move,1,4815,North-East,2,"₹ 7,00,00,000","Satellite, Ahmedabad, Gujarat",2 Bds - 2 Ba - 4815 ft2
+Apartments,3,3,Furnished,1160,Ready to Move,12,1690,North-East,1,"₹ 85,00,000","Motera, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1690 ft2
+Apartments,3,2,Unfurnished,750,New Launch,22,750,South-East,1,"₹ 45,00,000","132 Feet Ring Road, Ahmedabad, Gujarat",3 Bds - 2 Ba - 750 ft2
+Houses & Villas,1,1,Semi-Furnished,500,Ready to Move,1,800,-,-,"₹ 37,00,000","D Colony, Ahmedabad, Gujarat",1 Bds - 1 Ba - 800 ft2
+Apartments,3,3,Unfurnished,1382,Ready to Move,8,2304,North,1,"₹ 1,21,00,000","Motera, Ahmedabad, Gujarat",3 Bds - 3 Ba - 2304 ft2
+Houses & Villas,4,4,Unfurnished,1700,Ready to Move,2,1700,East,2,"₹ 1,50,00,000","Ranip, Ahmedabad, Gujarat",4 Bds - 4 Ba - 1700 ft2
+Apartments,2,2,Semi-Furnished,855,Ready to Move,4,1215,East,1,"₹ 58,00,000","Shahibag, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1215 ft2
+Houses & Villas,4,4,Semi-Furnished,900,Ready to Move,3,1000,North,-,"₹ 1,20,00,000","Old Vadaj, Ahmedabad, Gujarat",4 Bds - 4 Ba - 1000 ft2
+Apartments,2,2,Semi-Furnished,990,Ready to Move,4,1080,East,1,"₹ 62,00,000","Paldi, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1080 ft2
+Apartments,3,3,Furnished,200,Ready to Move,12,1980,North-East,1,"₹ 1,35,00,000","Gulabai Tekra, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1980 ft2
+Apartments,1,1,Semi-Furnished,23,Ready to Move,5,78,North,0,"₹ 33,00,000","Nirnay Nagar, Ahmedabad, Gujarat",1 Bds - 1 Ba - 78 ft2
+Apartments,2,2,Semi-Furnished,873,Ready to Move,4,1035,East,1,"₹ 60,00,000","Paldi, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1035 ft2
+Apartments,3,3,Unfurnished,1200,Under Construction,14,2655,East,2,"₹ 1,45,00,000","Gota, Ahmedabad, Gujarat",3 Bds - 3 Ba - 2655 ft2
+Apartments,2,2,Furnished,133,Ready to Move,10,1200,North-East,1,"₹ 43,00,000","Chandkheda, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1200 ft2
+Apartments,2,2,Furnished,1200,New Launch,2,1200,East,2,"₹ 57,00,000","Nirnay Nagar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1200 ft2
+Houses & Villas,4,3,Semi-Furnished,1462,Ready to Move,3,2250,East,1,"₹ 2,70,00,000","Nava Vadaj, Ahmedabad, Gujarat",4 Bds - 3 Ba - 2250 ft2
+Apartments,2,2,Furnished,786,Ready to Move,5,945,North-East,1,"₹ 60,00,000","Narayan Nagar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 945 ft2
+Houses & Villas,2,1,Semi-Furnished,42,Under Construction,1,27,East,3+,"₹ 21,50,000","Kalpi Nagar, Ahmedabad, Gujarat",2 Bds - 1 Ba - 27 ft2
+Apartments,1,1,Semi-Furnished,000,Ready to Move,7,000,East,1,"₹ 19,50,000","Vatva Ropda Road, Ahmedabad, Gujarat",1 Bds - 1 Ba - 000 ft2
+Apartments,2,1,Semi-Furnished,915,Ready to Move,4,85,South-East,0,"₹ 48,00,000","Kankaria, Ahmedabad, Gujarat",2 Bds - 1 Ba - 85 ft2
+Houses & Villas,4,3,Furnished,1035,Ready to Move,1,2250,North,1,"₹ 2,00,00,000","Paldi, Ahmedabad, Gujarat",4 Bds - 3 Ba - 2250 ft2
+Apartments,2,2,Furnished,1500,Ready to Move,5,1700,West,2,"₹ 43,99,999","D Colony, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1700 ft2
+Apartments,1,1,Semi-Furnished,380,Ready to Move,4,585,-,1,"₹ 22,00,000","Ghodasar, Ahmedabad, Gujarat",1 Bds - 1 Ba - 585 ft2
+Apartments,3,2,Semi-Furnished,1125,Ready to Move,10,1404,East,1,"₹ 64,00,000","Memnagar, Ahmedabad, Gujarat",3 Bds - 2 Ba - 1404 ft2
+Apartments,1,1,Furnished,650,Ready to Move,5,700,East,1,"₹ 22,00,000","Rakhiyal, Ahmedabad, Gujarat",1 Bds - 1 Ba - 700 ft2
+Apartments,2,2,Furnished,900,Ready to Move,5,1000,East,-,"₹ 47,00,000","Nirnay Nagar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1000 ft2
+Apartments,2,2,Semi-Furnished,1062,Ready to Move,5,1575,East,1,"₹ 55,00,000","Kankaria, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1575 ft2
+Apartments,1,3,Semi-Furnished,1000,Ready to Move,0,1000,-,1,"₹ 30,00,000","Saraspur, Ahmedabad, Gujarat",1 Bds - 3 Ba - 1000 ft2
+Apartments,2,2,Furnished,775,Ready to Move,12,1215,North,1,"₹ 72,00,000","Navrangpura, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1215 ft2
+Apartments,2,1,Furnished,00,Ready to Move,4,00,South-East,1,"₹ 42,00,000","Nirnay Nagar, Ahmedabad, Gujarat",2 Bds - 1 Ba - 00 ft2
+Apartments,2,2,Unfurnished,567,Ready to Move,7,1242,East,1,"₹ 60,00,000","Chandkheda, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1242 ft2
+Apartments,3,3,Furnished,2020,Ready to Move,-,2020,-,-,"₹ 1,03,00,000","Navrangpura, Ahmedabad, Gujarat",3 Bds - 3 Ba - 2020 ft2
+Builder Floors,3,2,Unfurnished,110,Ready to Move,7,110,North-West,1,"₹ 47,00,000","Behrampura, Ahmedabad, Gujarat",3 Bds - 2 Ba - 110 ft2
+Apartments,3,3,Furnished,1280,Ready to Move,7,1935,-,1,"₹ 1,52,00,000","Navrangpura, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1935 ft2
+Apartments,3,2,Unfurnished,215,Ready to Move,13,1935,North-East,1,"₹ 87,00,000","Chandkheda, Ahmedabad, Gujarat",3 Bds - 2 Ba - 1935 ft2
+Houses & Villas,4,3,Semi-Furnished,1215,Ready to Move,2,2025,-,-,"₹ 1,42,00,000","Vatva, Ahmedabad, Gujarat",4 Bds - 3 Ba - 2025 ft2
+Apartments,2,2,Semi-Furnished,135,Ready to Move,10,1215,North-East,-,"₹ 56,00,000","Motera, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1215 ft2
+-,-,-,-,-,-,-,-,-,-,"₹ 2,29,50,000",-,-
+Apartments,3,2,Unfurnished,97,Ready to Move,9,905,North-East,1,"₹ 65,00,000","Chandkheda, Ahmedabad, Gujarat",3 Bds - 2 Ba - 905 ft2
+Houses & Villas,4+,4+,Semi-Furnished,3000,Ready to Move,3,3500,North-East,3,"₹ 1,10,00,000","Nava Vadaj, Ahmedabad, Gujarat",4+ Bds - 4+ Ba - 3500 ft2
+Houses & Villas,4,2,Unfurnished,400,Ready to Move,2,400,North,1,"₹ 59,00,000","Ranip, Ahmedabad, Gujarat",4 Bds - 2 Ba - 400 ft2
+Apartments,2,2,Furnished,720,Ready to Move,7,738,South-East,1,"₹ 22,00,000","Vatva, Ahmedabad, Gujarat",2 Bds - 2 Ba - 738 ft2
+Apartments,1,1,Unfurnished,54,Ready to Move,4,49,North-East,0,"₹ 4,00,000","Naroda, Ahmedabad, Gujarat",1 Bds - 1 Ba - 49 ft2
+Apartments,2,2,Unfurnished,577,Under Construction,14,1100,East,1,"₹ 46,00,000","Jagatpur, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1100 ft2
+Apartments,2,2,Unfurnished,1200,Ready to Move,2,1400,North-East,-,"₹ 58,00,000","Naranpura, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1400 ft2
+Houses & Villas,4+,2,Unfurnished,2253,Ready to Move,1,2700,East,1,"₹ 3,50,00,000","Paldi, Ahmedabad, Gujarat",4+ Bds - 2 Ba - 2700 ft2
+Apartments,2,2,Furnished,800,Ready to Move,7,1200,East,1,"₹ 52,00,000","Chandlodia, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1200 ft2
+Apartments,1,1,Semi-Furnished,612,Ready to Move,4,720,East,1,"₹ 23,51,000","Ranip, Ahmedabad, Gujarat",1 Bds - 1 Ba - 720 ft2
+Houses & Villas,2,2,Unfurnished,1550,Ready to Move,1,2000,North,1,"₹ 1,00,00,000","Sabarmati, Ahmedabad, Gujarat",2 Bds - 2 Ba - 2000 ft2
+Apartments,2,2,Semi-Furnished,900,Ready to Move,4,1170,East,1,"₹ 63,00,000","Shahibag, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1170 ft2
+Apartments,3,3,Furnished,1210,Ready to Move,7,1825,North-East,1,"₹ 1,19,99,999","Chandkheda, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1825 ft2
+Apartments,3,3,Unfurnished,1100,Under Construction,14,1850,East,1,"₹ 1,00,00,000","Akhbar Nagar, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1850 ft2
+Apartments,2,2,Unfurnished,604,Ready to Move,13,1010,-,1,"₹ 62,21,000","Paldi, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1010 ft2
+Apartments,3,2,Furnished,1560,Ready to Move,4,1560,South-East,2,"₹ 10,000","Ashram Road, Ahmedabad, Gujarat",3 Bds - 2 Ba - 1560 ft2
+Apartments,1,1,Semi-Furnished,89,Ready to Move,4,89,North-East,1,"₹ 22,50,000","D Colony, Ahmedabad, Gujarat",1 Bds - 1 Ba - 89 ft2
+Apartments,3,2,Furnished,240,Ready to Move,10,2160,North-East,1,"₹ 1,75,00,000","Gota, Ahmedabad, Gujarat",3 Bds - 2 Ba - 2160 ft2
+Houses & Villas,4+,4,Furnished,1800,Ready to Move,3,2520,East,1,"₹ 2,40,00,000","Ambavadi, Ahmedabad, Gujarat",4+ Bds - 4 Ba - 2520 ft2
+Houses & Villas,3,3,Semi-Furnished,12151,Ready to Move,2,1150,East,1,"₹ 1,35,00,000","Memnagar, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1150 ft2
+Apartments,3,2,Unfurnished,1000,Ready to Move,14,1350,-,-,"₹ 61,00,000","Naranpura, Ahmedabad, Gujarat",3 Bds - 2 Ba - 1350 ft2
+Apartments,4,3,Semi-Furnished,95,Ready to Move,14,120,North,1,"₹ 97,00,000","Naranpura, Ahmedabad, Gujarat",4 Bds - 3 Ba - 120 ft2
+Farm Houses,3,2,Unfurnished,1200,Ready to Move,-,1200,North-West,-,"₹ 30,00,000","Gomtipur Village, Ahmedabad, Gujarat",3 Bds - 2 Ba - 1200 ft2
+Houses & Villas,2,2,Unfurnished,708,Ready to Move,-,708,East,-,"₹ 23,50,000","Bapu Nagar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 708 ft2
+Houses & Villas,4+,3,Semi-Furnished,2979,Ready to Move,2,5400,East,1,"₹ 3,61,00,000","Usmanpura, Ahmedabad, Gujarat",4+ Bds - 3 Ba - 5400 ft2
+Apartments,2,2,Semi-Furnished,777,Ready to Move,7,1295,East,1,"₹ 81,00,000","Paldi, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1295 ft2
+Houses & Villas,4,4,Furnished,202,Ready to Move,1,1818,North-East,1,"₹ 5,30,00,000","Thaltej, Ahmedabad, Gujarat",4 Bds - 4 Ba - 1818 ft2
+Houses & Villas,1,1,Unfurnished,399,Ready to Move,-,533,-,-,"₹ 14,50,000","Vastral, Ahmedabad, Gujarat",1 Bds - 1 Ba - 533 ft2
+Apartments,2,2,Furnished,142,Ready to Move,10,1278,North-East,1,"₹ 57,00,000","Chandkheda, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1278 ft2
+Houses & Villas,1,1,Semi-Furnished,90,Ready to Move,1,90,West,1,"₹ 70,00,000","Chandkheda, Ahmedabad, Gujarat",1 Bds - 1 Ba - 90 ft2
+Houses & Villas,3,3,Furnished,48,Ready to Move,3,120,North-East,-,"₹ 75,00,000","Danilimda, Ahmedabad, Gujarat",3 Bds - 3 Ba - 120 ft2
+Apartments,2,1,Unfurnished,1080,Ready to Move,4,1080,South,-,"₹ 23,00,000","Saijpur Bogha, Ahmedabad, Gujarat",2 Bds - 1 Ba - 1080 ft2
+Houses & Villas,4+,4,Furnished,2250,Ready to Move,1,2574,East,1,"₹ 3,50,00,000","Paldi, Ahmedabad, Gujarat",4+ Bds - 4 Ba - 2574 ft2
+Apartments,2,2,Unfurnished,110,Ready to Move,4,120,West,1,"₹ 35,00,000","Navrangpura, Ahmedabad, Gujarat",2 Bds - 2 Ba - 120 ft2
+Apartments,3,2,-,200,Ready to Move,10,1800,North-East,1,"₹ 1,90,00,000","Motera, Ahmedabad, Gujarat",3 Bds - 2 Ba - 1800 ft2
+Houses & Villas,2,2,Furnished,1300,Ready to Move,2,600,East,1,"₹ 80,00,000","Vastral, Ahmedabad, Gujarat",2 Bds - 2 Ba - 600 ft2
+Apartments,3,3,Semi-Furnished,1620,Ready to Move,7,2493,East,1,"₹ 1,85,00,000","Navrangpura, Ahmedabad, Gujarat",3 Bds - 3 Ba - 2493 ft2
+Apartments,1,1,Unfurnished,8,Ready to Move,1,8,West,0,"₹ 7,00,000","Shahpur, Ahmedabad, Gujarat",1 Bds - 1 Ba - 8 ft2
+Houses & Villas,4,4+,Semi-Furnished,2500,Ready to Move,2,2400,East,3+,"₹ 95,00,000","Bapu Nagar, Ahmedabad, Gujarat",4 Bds - 4+ Ba - 2400 ft2
+Apartments,2,1,Furnished,810,Ready to Move,3,810,East,1,"₹ 48,50,000","Keshav Nagar, Ahmedabad, Gujarat",2 Bds - 1 Ba - 810 ft2
+Apartments,3,3,Semi-Furnished,1200,Ready to Move,10,1950,North-East,1,"₹ 95,00,000","Motera, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1950 ft2
+Houses & Villas,4,4+,Semi-Furnished,2835,Ready to Move,3,2835,-,-,"₹ 1,30,00,000","Vastral, Ahmedabad, Gujarat",4 Bds - 4+ Ba - 2835 ft2
+Houses & Villas,2,2,Furnished,1800,Ready to Move,1,1800,West,2,"₹ 1,11,00,000","Bapu Nagar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1800 ft2
+Apartments,2,2,Furnished,900,Ready to Move,5,900,-,-,"₹ 48,00,000","Usmanpura, Ahmedabad, Gujarat",2 Bds - 2 Ba - 900 ft2
+Apartments,2,2,Furnished,800,Ready to Move,5,1000,-,1,"₹ 17,00,000","Narol Village, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1000 ft2
+Apartments,2,2,Semi-Furnished,918,Ready to Move,11,1080,North,1,"₹ 50,00,000","Ambavadi, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1080 ft2
+Apartments,2,2,Furnished,1026,Ready to Move,2,1215,North-East,1,"₹ 63,00,000","Ambavadi, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1215 ft2
+Apartments,2,2,Furnished,841,Ready to Move,5,990,North-East,-,"₹ 46,50,000","Nirnay Nagar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 990 ft2
+Houses & Villas,3,1,Semi-Furnished,2790,Ready to Move,01,2790,North-East,2,"₹ 3,10,00,000","Paldi  Village, Ahmedabad Ahmedabad, Gujarat",3 Bds - 1 Ba - 2790 ft2
+Apartments,2,2,Semi-Furnished,960,Ready to Move,14,1080,East,1,"₹ 25,50,000","Narol, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1080 ft2
+Builder Floors,1,1,Unfurnished,360,Ready to Move,7,740,East,1,"₹ 16,00,000","Vinzol, Ahmedabad, Gujarat",1 Bds - 1 Ba - 740 ft2
+Apartments,3,3,Unfurnished,972,Under Construction,14,1737,East,1,"₹ 66,00,000","Jagatpur, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1737 ft2
+Apartments,2,2,Semi-Furnished,800,Ready to Move,4,1000,East,1,"₹ 62,00,000","Keshav Nagar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1000 ft2
+Apartments,2,2,Furnished,980,Ready to Move,5,1710,North,1,"₹ 75,00,000","Nikol, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1710 ft2
+Apartments,3,3,Unfurnished,865,Ready to Move,12,1800,East,1,"₹ 69,00,000","Zundal, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1800 ft2
+Houses & Villas,4+,4+,Furnished,5049,Ready to Move,-,6000,-,-,"₹ 8,00,00,000","Navrangpura, Ahmedabad, Gujarat",4+ Bds - 4+ Ba - 6000 ft2
+Apartments,2,2,Unfurnished,995,Ready to Move,9,1095,North-East,1,"₹ 30,00,000","Nikol, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1095 ft2
+Apartments,3,3,Furnished,1575,Ready to Move,-,1575,-,-,"₹ 70,00,000","Shilaj, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1575 ft2
+Apartments,2,2,Furnished,1134,Ready to Move,5,1134,East,1,"₹ 40,00,000","Chandkheda, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1134 ft2
+Apartments,2,2,Furnished,85,Ready to Move,14,119,North-East,1,"₹ 48,51,000","Ranip, Ahmedabad, Gujarat",2 Bds - 2 Ba - 119 ft2
+Apartments,2,2,Semi-Furnished,95,Ready to Move,4,110,East,1,"₹ 28,00,000","Bapu Nagar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 110 ft2
+Apartments,3,3,Unfurnished,860,Under Construction,12,1836,East,1,"₹ 64,00,000","Nana Chiloda, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1836 ft2
+Apartments,1,1,Furnished,75,Ready to Move,4,75,-,0,"₹ 16,00,000","Jasoda Nagar, Ahmedabad, Gujarat",1 Bds - 1 Ba - 75 ft2
+Apartments,2,2,Furnished,1200,Ready to Move,4,1200,South,2,"₹ 10,000","Ashram Road, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1200 ft2
+Apartments,2,2,Unfurnished,550,Ready to Move,5,652,North-West,1,"₹ 43,50,000","132 Feet Ring Road, Ahmedabad, Gujarat",2 Bds - 2 Ba - 652 ft2
+Apartments,3,3,Furnished,1350,Ready to Move,10,1500,-,1,"₹ 87,00,000","Jodhpur, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1500 ft2
+Apartments,2,1,Semi-Furnished,1000,Ready to Move,2,1200,-,3+,"₹ 31,50,000","Bapu Nagar, Ahmedabad, Gujarat",2 Bds - 1 Ba - 1200 ft2
+Apartments,2,3,Semi-Furnished,1100,Ready to Move,2,1080,East,0,"₹ 23,50,000","Megani Nagar, Ahmedabad, Gujarat",2 Bds - 3 Ba - 1080 ft2
+Apartments,3,2,Unfurnished,183,Ready to Move,10,1647,North-East,1,"₹ 77,00,000","Jagatpur, Ahmedabad, Gujarat",3 Bds - 2 Ba - 1647 ft2
+Apartments,2,2,Semi-Furnished,950,Ready to Move,10,1400,North-East,1,"₹ 65,00,000","Motera, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1400 ft2
+Apartments,2,2,Furnished,650,Ready to Move,7,1161,West,1,"₹ 45,00,000","Vastral, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1161 ft2
+Houses & Villas,4+,4+,Unfurnished,850,Ready to Move,3,1000,East,1,"₹ 9,95,00,000","Ambavadi, Ahmedabad, Gujarat",4+ Bds - 4+ Ba - 1000 ft2
+Apartments,2,2,Semi-Furnished,1050,Ready to Move,2,1250,East,-,"₹ 55,00,000","Naranpura, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1250 ft2
+Apartments,2,2,Semi-Furnished,855,Ready to Move,8,1200,North-East,1,"₹ 68,00,000","Sabarmati, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1200 ft2
+Houses & Villas,2,1,Furnished,361,Ready to Move,2,361,North,0,"₹ 28,50,000","Bapu Nagar, Ahmedabad, Gujarat",2 Bds - 1 Ba - 361 ft2
+Houses & Villas,3,3,Semi-Furnished,1850,Ready to Move,2,2840,East,1,"₹ 1,30,00,000","Motera, Ahmedabad, Gujarat",3 Bds - 3 Ba - 2840 ft2
+Apartments,1,1,Semi-Furnished,1200,Ready to Move,4,65,East,1,"₹ 12,99,999","Bapu Nagar, Ahmedabad, Gujarat",1 Bds - 1 Ba - 65 ft2
+Apartments,2,2,Semi-Furnished,873,Ready to Move,4,1035,East,1,"₹ 60,00,000","Paldi, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1035 ft2
+Apartments,2,2,Furnished,600,Ready to Move,4,665,-,1,"₹ 55,65,000","Ashram Road, Ahmedabad, Gujarat",2 Bds - 2 Ba - 665 ft2
+Houses & Villas,1,1,Unfurnished,26,Ready to Move,2,26,East,0,"₹ 8,50,000","Shahpur, Ahmedabad, Gujarat",1 Bds - 1 Ba - 26 ft2
+Houses & Villas,2,2,Furnished,40,Ready to Move,2,27,South,1,"₹ 18,99,999","Jay Nagar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 27 ft2
+Apartments,2,1,Furnished,915,Ready to Move,4,915,South-East,-,"₹ 48,00,000","Kankaria, Ahmedabad, Gujarat",2 Bds - 1 Ba - 915 ft2
+Apartments,3,2,Furnished,1687,Ready to Move,5,1687,South-East,2,"₹ 10,000","Ashram Road, Ahmedabad, Gujarat",3 Bds - 2 Ba - 1687 ft2
+Houses & Villas,1,1,Furnished,630,Ready to Move,2,630,-,0,"₹ 45,00,000","Behrampur, Ahmedabad, Gujarat",1 Bds - 1 Ba - 630 ft2
+Apartments,3,3,Unfurnished,1143,Ready to Move,7,1944,East,1,"₹ 1,30,00,000","Paldi, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1944 ft2
+Apartments,3,3,Furnished,1620,Ready to Move,9,1620,East,0,"₹ 80,00,000","Navrangpura, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1620 ft2
+Apartments,2,2,Semi-Furnished,950,Ready to Move,3,1000,North,3+,"₹ 40,00,000","Ranip, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1000 ft2
+Apartments,3,3,Furnished,1180,Ready to Move,13,2380,West,2,"₹ 1,55,00,000","Gota, Ahmedabad, Gujarat",3 Bds - 3 Ba - 2380 ft2
+Apartments,4,4,Furnished,3525,Ready to Move,-,4000,-,-,"₹ 2,80,00,000","Navrangpura, Ahmedabad, Gujarat",4 Bds - 4 Ba - 4000 ft2
+Houses & Villas,3,3,Semi-Furnished,1105,Ready to Move,1,1305,North,1,"₹ 1,50,00,000","Chandkheda, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1305 ft2
+Apartments,1,1,Furnished,504,Ready to Move,3,706,East,0,"₹ 36,21,000","Keshav Nagar, Ahmedabad, Gujarat",1 Bds - 1 Ba - 706 ft2
+Houses & Villas,2,1,Unfurnished,1680,Ready to Move,2,1500,South-East,1,"₹ 20,00,000","Dariapur, Ahmedabad, Gujarat",2 Bds - 1 Ba - 1500 ft2
+Apartments,1,1,Unfurnished,77,Ready to Move,2,85,North-West,0,"₹ 90,00,000","Shahpur, Ahmedabad, Gujarat",1 Bds - 1 Ba - 85 ft2
+Apartments,3,3,Furnished,1440,Ready to Move,4,1800,West,1,"₹ 1,00,00,000","Naranpura, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1800 ft2
+Apartments,3,3,Furnished,1741,Ready to Move,7,1935,North,1,"₹ 1,10,00,000","Chandkheda, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1935 ft2
+Apartments,2,2,Furnished,900,Ready to Move,5,1100,West,1,"₹ 50,00,000","Chandlodia, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1100 ft2
+Apartments,2,2,Unfurnished,123,Ready to Move,10,1107,North-East,1,"₹ 42,00,000","Chandkheda, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1107 ft2
+Apartments,2,1,Semi-Furnished,855,Ready to Move,3,1181818,-,0,"₹ 43,00,000","Naranpura, Ahmedabad, Gujarat",2 Bds - 1 Ba - 1181818 ft2
+Apartments,3,3,Unfurnished,1100,Ready to Move,14,1728,North-West,1,"₹ 80,00,000","Gota, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1728 ft2
+Houses & Villas,2,2,Unfurnished,22,Ready to Move,1,22,-,-,"₹ 22,00,000","Behrampura, Ahmedabad, Gujarat",2 Bds - 2 Ba - 22 ft2
+Apartments,2,2,Semi-Furnished,880,Ready to Move,4,1100,West,1,"₹ 62,00,000","Sardar Colony, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1100 ft2
+Apartments,2,2,Semi-Furnished,555,Ready to Move,4,1035,East,1,"₹ 55,00,000","Nava Vadaj, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1035 ft2
+Apartments,2,2,Unfurnished,1314,Ready to Move,7,1314,East,1,"₹ 64,00,000","Nava Vadaj, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1314 ft2
+Houses & Villas,4,3,Furnished,300,Ready to Move,1,2700,North-East,1,"₹ 2,65,00,000","Gota, Ahmedabad, Gujarat",4 Bds - 3 Ba - 2700 ft2
+Apartments,3,3,Unfurnished,1228,Ready to Move,14,1890,East,1,"₹ 1,30,00,000","Ellis Bridge, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1890 ft2
+Apartments,2,2,Furnished,121,Ready to Move,07,121,North-East,1,"₹ 40,00,000","Bapu Nagar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 121 ft2
+Apartments,2,2,Semi-Furnished,551,New Launch,14,534,East,2,"₹ 14,500","Ranip, Ahmedabad, Gujarat",2 Bds - 2 Ba - 534 ft2
+Houses & Villas,1,1,Unfurnished,450,Ready to Move,1,882,East,1,"₹ 51,00,000","Ranip, Ahmedabad, Gujarat",1 Bds - 1 Ba - 882 ft2
+Apartments,2,2,Unfurnished,126,Ready to Move,7,1134,North,1,"₹ 27,00,000","Odhav GIDC, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1134 ft2
+Houses & Villas,3,3,Furnished,1458,Ready to Move,3,1458,West,2,"₹ 2,28,00,000","Ghatlodia, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1458 ft2
+Apartments,1,1,Semi-Furnished,220,Ready to Move,4,128,East,1,"₹ 16,00,000","Bapu Nagar, Ahmedabad, Gujarat",1 Bds - 1 Ba - 128 ft2
+Houses & Villas,3,2,Semi-Furnished,1170,Ready to Move,1,1350,West,1,"₹ 3,50,00,000","Ranip, Ahmedabad, Gujarat",3 Bds - 2 Ba - 1350 ft2
+Apartments,2,2,Unfurnished,200,Ready to Move,2,200,East,0,"₹ 27,00,000","Jamalpur, Ahmedabad, Gujarat",2 Bds - 2 Ba - 200 ft2
+Apartments,2,2,Furnished,54,Ready to Move,2,62,North,1,"₹ 47,00,000","Ranip, Ahmedabad, Gujarat",2 Bds - 2 Ba - 62 ft2
+Apartments,2,2,Unfurnished,110,Ready to Move,9,130,East,1,"₹ 49,00,000","Chandkheda, Ahmedabad, Gujarat",2 Bds - 2 Ba - 130 ft2
+Apartments,3,3,Unfurnished,1005,Ready to Move,13,1764,East,1,"₹ 86,00,000","Gota, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1764 ft2
+Apartments,2,2,Unfurnished,700,Ready to Move,5,1100,North-East,2,"₹ 17,21,000","Vatva, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1100 ft2
+Houses & Villas,3,2,Semi-Furnished,900,Ready to Move,2,900,East,1,"₹ 58,00,000","Bapu Nagar, Ahmedabad, Gujarat",3 Bds - 2 Ba - 900 ft2
+Apartments,4,4,Semi-Furnished,1935,Ready to Move,10,2322,East,1,"₹ 2,65,00,000","Ambavadi, Ahmedabad, Gujarat",4 Bds - 4 Ba - 2322 ft2
+Houses & Villas,4+,4+,Semi-Furnished,2000,Ready to Move,3,2000,North-East,2,"₹ 1,53,50,000","Naranpura, Ahmedabad, Gujarat",4+ Bds - 4+ Ba - 2000 ft2
+Apartments,2,2,Semi-Furnished,121,Ready to Move,7,1089,East,1,"₹ 38,00,000","New Ranip, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1089 ft2
+-,-,-,-,-,-,-,-,-,-,"₹ 1,55,00,000",-,-
+Apartments,1,1,Furnished,0,Ready to Move,-,0,-,-,"₹ 50,00,000","Vasna, Ahmedabad, Gujarat",1 Bds - 1 Ba - 0 ft2
+Houses & Villas,4+,3,Semi-Furnished,270,Ready to Move,2,280,West,2,"₹ 1,90,00,000","Bapu Nagar, Ahmedabad, Gujarat",4+ Bds - 3 Ba - 280 ft2
+Apartments,3,3,Furnished,974,Ready to Move,7,1771,East,2,"₹ 1,20,00,000","Vastral, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1771 ft2
+Apartments,3,2,Semi-Furnished,1215,Ready to Move,4,1350,East,1,"₹ 82,00,000","Shahibag, Ahmedabad, Gujarat",3 Bds - 2 Ba - 1350 ft2
+Houses & Villas,2,2,Semi-Furnished,390,Ready to Move,-,390,East,-,"₹ 45,00,000","Bapu Nagar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 390 ft2
+Apartments,1,1,Furnished,74,Ready to Move,10,666,North-East,1,"₹ 35,00,000","Jagatpur, Ahmedabad, Gujarat",1 Bds - 1 Ba - 666 ft2
+Apartments,2,2,Furnished,1100,Ready to Move,7,1600,East,2,"₹ 75,00,000","Ambavadi, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1600 ft2
+Apartments,3,2,Unfurnished,215,Ready to Move,12,1935,North-East,1,"₹ 85,00,000","Chandkheda, Ahmedabad, Gujarat",3 Bds - 2 Ba - 1935 ft2
+Apartments,2,2,Furnished,135,Ready to Move,2,1215,East,1,"₹ 35,00,000","Nava Vadaj, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1215 ft2
+Apartments,2,2,Semi-Furnished,806,Ready to Move,7,1152,North-West,1,"₹ 44,00,000","Chandkheda, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1152 ft2
+Apartments,2,2,Furnished,1098,Ready to Move,10,1098,East,1,"₹ 50,00,000","Chandkheda, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1098 ft2
+Apartments,3,3,Unfurnished,903,Ready to Move,7,1742,South,1,"₹ 1,24,00,000","Vastrapur, Ahmedabad, Gujarat",3 Bds - 3 Ba - 1742 ft2
+Apartments,1,1,Unfurnished,500,Ready to Move,4,600,-,0,"₹ 21,51,000","Manek Chowk, Ahmedabad, Gujarat",1 Bds - 1 Ba - 600 ft2
+Apartments,2,2,Furnished,1170,Ready to Move,5,1255,North,3+,"₹ 60,00,000","Ram Nagar, Ahmedabad, Gujarat",2 Bds - 2 Ba - 1255 ft2
+Houses & Villas,4,4,Furnished,120,Ready to Move,1,120,South-East,2,"₹ 75,00,000","Megani Nagar, Ahmedabad, Gujarat",4 Bds - 4 Ba - 120 ft2

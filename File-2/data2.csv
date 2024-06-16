@@ -1,0 +1,302 @@
+Property type,Bedroom,Bathroom,Furnished Status,Carpet Area,Construction Status,Floor No,SquareFeet,Facing,Car Parking,Total Price (INR),Address,BHK
+Apartments,3,2,Furnished,1002,Ready to Move,-,1136,East,-,"₹ 4,31,45,685","Borla, Mumbai, Maharashtra",3 Bds - 2 Ba - 1136 ft2
+Apartments,1,2,Unfurnished,322,Ready to Move,10,510,West,0,"₹ 82,00,000","Kurla West, Mumbai, Maharashtra",1 Bds - 2 Ba - 510 ft2
+Apartments,2,2,-,800,Ready to Move,15,1150,South-West,1,"₹ 2,75,00,000","Versova, Mumbai, Maharashtra",2 Bds - 2 Ba - 1150 ft2
+Apartments,2,2,Semi-Furnished,589,Under Construction,26,842,South-East,3+,"₹ 1,58,75,988","Vikhroli East, Mumbai, Maharashtra",2 Bds - 2 Ba - 842 ft2
+Apartments,2,2,Furnished,740,Ready to Move,4,740,East,-,"₹ 2,95,00,000","Bandra West, Mumbai, Maharashtra",2 Bds - 2 Ba - 740 ft2
+Apartments,2,2,Furnished,685,Under Construction,25,700,East,1,"₹ 3,00,00,000","Andheri East, Mumbai, Maharashtra",2 Bds - 2 Ba - 700 ft2
+Apartments,1,1,Unfurnished,231,Under Construction,19,246,North-East,0,"₹ 55,00,000","Chembur, Mumbai, Maharashtra",1 Bds - 1 Ba - 246 ft2
+Builder Floors,1,1,Semi-Furnished,305,Under Construction,16,575,East,0,"₹ 26,00,000","Kurla West, Mumbai, Maharashtra",1 Bds - 1 Ba - 575 ft2
+Apartments,1,2,Unfurnished,225,Ready to Move,24,350,East,0,"₹ 44,00,000","Dadar East, Mumbai, Maharashtra",1 Bds - 2 Ba - 350 ft2
+Apartments,1,1,Unfurnished,605,Ready to Move,7,550,East,3+,"₹ 21,55,000","Byculla, Mumbai, Maharashtra",1 Bds - 1 Ba - 550 ft2
+Apartments,1,2,Unfurnished,435,New Launch,25,435,North-East,1,"₹ 57,00,000","Kurla East, Mumbai, Maharashtra",1 Bds - 2 Ba - 435 ft2
+Apartments,1,2,Unfurnished,450,New Launch,20,725,West,1,"₹ 86,50,000","Kurla East, Mumbai, Maharashtra",1 Bds - 2 Ba - 725 ft2
+Apartments,1,1,Semi-Furnished,405,Ready to Move,7,450,East,-,"₹ 85,00,000","Vinobha Bhave Nagar, Mumbai, Maharashtra",1 Bds - 1 Ba - 450 ft2
+Apartments,1,2,Unfurnished,410,New Launch,18,610,West,1,"₹ 77,00,000","Kurla East, Mumbai, Maharashtra",1 Bds - 2 Ba - 610 ft2
+Builder Floors,1,1,Unfurnished,370,Under Construction,-,600,-,-,"₹ 30,00,000","Sion East, Mumbai, Maharashtra",1 Bds - 1 Ba - 600 ft2
+Apartments,2,2,Unfurnished,630,New Launch,14,1050,West,1,"₹ 1,85,00,000","Kurla West,  Mumbai, Maharashtra",2 Bds - 2 Ba - 1050 ft2
+Builder Floors,2,2,Unfurnished,584,Under Construction,16,900,East,-,"₹ 1,29,00,000","Anushakti Nagar, Mumbai, Maharashtra",2 Bds - 2 Ba - 900 ft2
+Apartments,1,2,Unfurnished,504,Ready to Move,21,685,North,0,"₹ 1,35,00,000","Marol,  Mumbai, Maharashtra",1 Bds - 2 Ba - 685 ft2
+Houses & Villas,1,1,-,1,-,-,1,-,-,"₹ 28,00,000","Kurla West, Mumbai, Maharashtra",1 Bds - 1 Ba - 1 ft2
+Apartments,1,1,Unfurnished,359,Under Construction,22,425,East,1,"₹ 59,99,000","Vikhroli East, Mumbai, Maharashtra",1 Bds - 1 Ba - 425 ft2
+Builder Floors,1,1,Semi-Furnished,305,Under Construction,16,575,East,1,"₹ 26,00,000","Chembur, Mumbai, Maharashtra",1 Bds - 1 Ba - 575 ft2
+Apartments,3,3,Unfurnished,1200,New Launch,32,1650,West,2,"₹ 5,45,00,000","Prabhadevi, Mumbai, Maharashtra",3 Bds - 3 Ba - 1650 ft2
+Apartments,2,2,Unfurnished,665,Ready to Move,17,1050,West,0,"₹ 1,39,00,000","Kurla East, Mumbai, Maharashtra",2 Bds - 2 Ba - 1050 ft2
+Apartments,2,2,Semi-Furnished,579,Under Construction,27,692,South-East,3+,"₹ 1,83,97,459","Wadala East, Mumbai, Maharashtra",2 Bds - 2 Ba - 692 ft2
+Apartments,2,2,Unfurnished,667,Ready to Move,14,795,East,1,"₹ 38,00,000","Chembur, Mumbai, Maharashtra",2 Bds - 2 Ba - 795 ft2
+Apartments,1,1,Unfurnished,269,Ready to Move,22,427,North-East,0,"₹ 45,00,000","Andheri East, Mumbai, Maharashtra",1 Bds - 1 Ba - 427 ft2
+Builder Floors,1,1,Unfurnished,320,Ready to Move,24,400,East,1,"₹ 20,000","Antop Hill, Mumbai, Maharashtra",1 Bds - 1 Ba - 400 ft2
+Apartments,2,2,Unfurnished,435,Ready to Move,12,700,East,1,"₹ 45,00,000","Dharavi, Mumbai, Maharashtra",2 Bds - 2 Ba - 700 ft2
+Apartments,2,2,Semi-Furnished,750,Ready to Move,8,1100,South-West,1,"₹ 2,85,00,000","Versova, Mumbai, Maharashtra",2 Bds - 2 Ba - 1100 ft2
+Apartments,3,3,Unfurnished,1350,Ready to Move,67,1750,West,2,"₹ 8,60,00,000","Prabhadevi, Mumbai, Maharashtra",3 Bds - 3 Ba - 1750 ft2
+Apartments,3,4,Furnished,1300,Ready to Move,30,1750,North,3+,"₹ 4,50,00,000","Andheri East, Mumbai, Maharashtra",3 Bds - 4 Ba - 1750 ft2
+Builder Floors,1,1,Semi-Furnished,150,Ready to Move,1,150,North,0,"₹ 24,00,000","Vinobha Bhave Nagar, Mumbai, Maharashtra",1 Bds - 1 Ba - 150 ft2
+Apartments,1,1,Unfurnished,230,Ready to Move,7,250,East,1,"₹ 25,00,000","Tilak Nagar, Mumbai, Maharashtra",1 Bds - 1 Ba - 250 ft2
+Apartments,2,2,Semi-Furnished,750,Ready to Move,7,1100,South-West,1,"₹ 7,25,00,000","Versova,  Mumbai, Maharashtra",2 Bds - 2 Ba - 1100 ft2
+Apartments,2,2,Furnished,550,New Launch,18,1000,South-East,0,"₹ 2,50,00,000","RTO Colony, Elephanta Caves, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Apartments,2,1,Semi-Furnished,450,Ready to Move,7,500,North-West,1,"₹ 30,00,000","Kurla East, Mumbai, Maharashtra",2 Bds - 1 Ba - 500 ft2
+Apartments,4,4+,Semi-Furnished,2200,Ready to Move,20,3000,South-West,2,"₹ 11,00,00,000","Versova, Mumbai, Maharashtra",4 Bds - 4+ Ba - 3000 ft2
+Apartments,2,2,Unfurnished,511,Under Construction,34,890,South-West,0,"₹ 49,50,000","Kurla West, Mumbai, Maharashtra",2 Bds - 2 Ba - 890 ft2
+Apartments,1,1,Furnished,580,New Launch,5,580,-,-,"₹ 10,000","Vile Parle East, Mumbai, Maharashtra",1 Bds - 1 Ba - 580 ft2
+Apartments,1,2,Unfurnished,269,Ready to Move,15,350,East,1,"₹ 22,000","Chembur, Mumbai, Maharashtra",1 Bds - 2 Ba - 350 ft2
+Apartments,3,3,Unfurnished,958,Ready to Move,24,1111,East,1,"₹ 51,00,000","Chembur, Mumbai, Maharashtra",3 Bds - 3 Ba - 1111 ft2
+Apartments,2,2,Unfurnished,615,New Launch,20,1050,West,1,"₹ 1,21,00,000","Kurla East, Mumbai, Maharashtra",2 Bds - 2 Ba - 1050 ft2
+Apartments,3,4,Unfurnished,1175,Ready to Move,-,1175,-,1,"₹ 6,25,00,000","Dadar East, Mumbai, Maharashtra",3 Bds - 4 Ba - 1175 ft2
+Apartments,2,2,Unfurnished,640,Ready to Move,7,910,East,1,"₹ 30,00,000","Jogeshwari West, Mumbai, Maharashtra",2 Bds - 2 Ba - 910 ft2
+Apartments,1,2,Semi-Furnished,468,Under Construction,23,689,South-East,-,"₹ 1,45,89,687","Byculla, Mumbai, Maharashtra",1 Bds - 2 Ba - 689 ft2
+Apartments,1,2,Unfurnished,652,Ready to Move,17,1058,East,0,"₹ 1,41,00,000","Kurla East, Mumbai, Maharashtra",1 Bds - 2 Ba - 1058 ft2
+Apartments,3,3,Furnished,1100,Ready to Move,12,1850,West,1,"₹ 8,10,00,000","Bandra West, Mumbai, Maharashtra",3 Bds - 3 Ba - 1850 ft2
+Apartments,1,2,Semi-Furnished,489,Under Construction,24,702,South-East,3+,"₹ 1,22,75,986","Goregaon East,  Mumbai, Maharashtra",1 Bds - 2 Ba - 702 ft2
+Apartments,2,2,Unfurnished,584,Ready to Move,17,910,West,1,"₹ 1,42,00,000","Kurla East, Mumbai, Maharashtra",2 Bds - 2 Ba - 910 ft2
+Apartments,1,2,Unfurnished,360,Ready to Move,42,500,North-West,0,"₹ 78,00,000","Mahalakshmi, Mumbai, Maharashtra",1 Bds - 2 Ba - 500 ft2
+Apartments,1,1,Unfurnished,445,Ready to Move,6,530,East,1,"₹ 48,00,000","Vile Parle West, Mumbai, Maharashtra",1 Bds - 1 Ba - 530 ft2
+Apartments,3,3,Semi-Furnished,1108,Ready to Move,17,1800,East,1,"₹ 3,66,00,000","Chembur, Mumbai, Maharashtra",3 Bds - 3 Ba - 1800 ft2
+Builder Floors,2,2,Furnished,781,Under Construction,16,790,North-West,1,"₹ 2,36,00,000","Andheri East, Mumbai, Maharashtra",2 Bds - 2 Ba - 790 ft2
+Apartments,1,2,Unfurnished,408,Ready to Move,16,550,North-East,0,"₹ 26,500","Kurla West,  Mumbai, Maharashtra",1 Bds - 2 Ba - 550 ft2
+Apartments,2,2,Unfurnished,619,Ready to Move,1,736,East,1,"₹ 35,00,000","Kurla West, Mumbai, Maharashtra",2 Bds - 2 Ba - 736 ft2
+Houses & Villas,1,1,Semi-Furnished,850,Ready to Move,2,1050,North,0,"₹ 75,00,000","Kalina,  Mumbai, Maharashtra",1 Bds - 1 Ba - 1050 ft2
+Apartments,1,2,Semi-Furnished,430,Ready to Move,12,635,East,1,"₹ 1,12,00,000","Chembur, Mumbai, Maharashtra",1 Bds - 2 Ba - 635 ft2
+Apartments,2,2,Furnished,825,Ready to Move,15,1000,North-East,1,"₹ 3,10,00,000","Versova, Mumbai, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Houses & Villas,1,1,Unfurnished,200,Ready to Move,2,150,East,0,"₹ 25,00,000","Khar East, Mumbai, Maharashtra",1 Bds - 1 Ba - 150 ft2
+Apartments,1,2,Furnished,382,Under Construction,24,390,North-East,1,"₹ 82,00,000","Marol, Mumbai, Maharashtra",1 Bds - 2 Ba - 390 ft2
+Apartments,3,4,Furnished,1900,Ready to Move,45,3000,West,2,"₹ 7,50,00,000","Worli, Mumbai, Maharashtra",3 Bds - 4 Ba - 3000 ft2
+Apartments,2,2,Unfurnished,629,Under Construction,17,900,East,1,"₹ 2,30,00,000","Anushakti Nagar,  Mumbai, Maharashtra",2 Bds - 2 Ba - 900 ft2
+Apartments,1,1,Unfurnished,380,Ready to Move,1,425,East,1,"₹ 22,00,000","Ghatkopar East, Mumbai, Maharashtra",1 Bds - 1 Ba - 425 ft2
+Apartments,2,2,Unfurnished,515,Under Construction,16,750,West,1,"₹ 1,10,00,000","Kurla East, Mumbai, Maharashtra",2 Bds - 2 Ba - 750 ft2
+Apartments,3,3,Semi-Furnished,1084,Ready to Move,16,1786,North-East,1,"₹ 3,75,00,000","Chembur,  Mumbai, Maharashtra",3 Bds - 3 Ba - 1786 ft2
+Apartments,2,2,Unfurnished,700,Ready to Move,21,1080,-,1,"₹ 1,65,00,000","Jogeshwari West, Mumbai, Maharashtra",2 Bds - 2 Ba - 1080 ft2
+Apartments,2,2,Semi-Furnished,707,New Launch,16,1150,West,1,"₹ 2,25,00,000","Bandra Kurla Complex, Mumbai, Maharashtra",2 Bds - 2 Ba - 1150 ft2
+Apartments,1,1,Unfurnished,360,New Launch,32,560,West,0,"₹ 34,00,000","Kurla West, Mumbai, Maharashtra",1 Bds - 1 Ba - 560 ft2
+Apartments,1,1,Unfurnished,232,Under Construction,19,375,North,0,"₹ 55,00,000","Ghatkopar East, Mumbai, Maharashtra",1 Bds - 1 Ba - 375 ft2
+Builder Floors,1,1,Unfurnished,250,Ready to Move,4,15,East,0,"₹ 45,00,000","Bandra East, Mumbai, Maharashtra",1 Bds - 1 Ba - 15 ft2
+Apartments,1,1,Unfurnished,750,Ready to Move,-,750,East,0,"₹ 25,20,000","Panth Nagar, Mumbai, Maharashtra",1 Bds - 1 Ba - 750 ft2
+Apartments,1,2,Unfurnished,440,Under Construction,10,525,-,1,"₹ 1,37,00,000","Kalina, Mumbai, Maharashtra",1 Bds - 2 Ba - 525 ft2
+Apartments,1,2,Unfurnished,433,New Launch,20,700,West,1,"₹ 83,00,000","Kurla East, Mumbai, Maharashtra",1 Bds - 2 Ba - 700 ft2
+Apartments,2,2,Furnished,790,Ready to Move,22,1050,East,1,"₹ 2,05,00,000","Bandra East, Mumbai, Maharashtra",2 Bds - 2 Ba - 1050 ft2
+Apartments,3,2,Unfurnished,777,Ready to Move,5,925,East,1,"₹ 80,00,000","Bandra West, Mumbai, Maharashtra",3 Bds - 2 Ba - 925 ft2
+Apartments,2,2,Furnished,500,-,7,700,East,1,"₹ 1,20,00,000","Andheri West, Mumbai, Maharashtra",2 Bds - 2 Ba - 700 ft2
+Apartments,2,2,Unfurnished,672,Under Construction,12,700,East,1,"₹ 1,78,00,000","Andheri East,  Mumbai, Maharashtra",2 Bds - 2 Ba - 700 ft2
+Apartments,2,2,Unfurnished,584,Under Construction,16,890,East,1,"₹ 1,22,00,000","Chembur, Mumbai, Maharashtra",2 Bds - 2 Ba - 890 ft2
+Builder Floors,1,1,Semi-Furnished,300,Ready to Move,3,350,South-West,0,"₹ 95,00,000","Bandra West, Mumbai, Maharashtra",1 Bds - 1 Ba - 350 ft2
+Apartments,4+,4+,Furnished,2700,Ready to Move,30,3700,West,3,"₹ 16,50,00,000","Prabhadevi, Mumbai, Maharashtra",4+ Bds - 4+ Ba - 3700 ft2
+Apartments,3,4,Semi-Furnished,1950,Ready to Move,65,2850,West,2,"₹ 6,85,00,000","Dadar East, Mumbai, Maharashtra",3 Bds - 4 Ba - 2850 ft2
+Houses & Villas,2,1,Unfurnished,256,Ready to Move,1,256,South,0,"₹ 55,00,000","Mahim, Mumbai, Maharashtra",2 Bds - 1 Ba - 256 ft2
+Apartments,2,2,Unfurnished,720,Ready to Move,11,821,East,1,"₹ 60,00,000","Vile Parle East, Mumbai, Maharashtra",2 Bds - 2 Ba - 821 ft2
+Apartments,2,2,Furnished,615,Under Construction,15,750,East,1,"₹ 1,80,00,000","Marol, Mumbai, Maharashtra",2 Bds - 2 Ba - 750 ft2
+Farm Houses,-,-,Unfurnished,123,-,2,123,East,0,"₹ 15,00,000","Mankhurd, Mumbai, Maharashtra",-
+Apartments,2,2,Unfurnished,800,Ready to Move,7,1150,North-West,1,"₹ 2,95,00,000","Andheri West, Mumbai, Maharashtra",2 Bds - 2 Ba - 1150 ft2
+Builder Floors,1,1,Unfurnished,400,Ready to Move,400,12,South,1,"₹ 13,00,000","Antop Hill, Mumbai, Maharashtra",1 Bds - 1 Ba - 12 ft2
+Apartments,2,2,Unfurnished,540,Under Construction,30,713,East,1,"₹ 1,72,00,000","Vikhroli West, Mumbai, Maharashtra",2 Bds - 2 Ba - 713 ft2
+Apartments,4,3,Unfurnished,1680,Ready to Move,5,2400,East,1,"₹ 1,50,00,000","Ghatkopar East, Mumbai, Maharashtra",4 Bds - 3 Ba - 2400 ft2
+Apartments,3,3,Furnished,855,Ready to Move,-,960,East,-,"₹ 2,10,00,000","Versova,  Mumbai, Maharashtra",3 Bds - 3 Ba - 960 ft2
+Apartments,1,2,Semi-Furnished,486,Ready to Move,14,710,West,1,"₹ 95,00,000","Kurla East, Mumbai, Maharashtra",1 Bds - 2 Ba - 710 ft2
+Apartments,1,2,Unfurnished,342,Under Construction,17,550,East,0,"₹ 85,50,000","Kurla West, Mumbai, Maharashtra",1 Bds - 2 Ba - 550 ft2
+Apartments,1,2,Unfurnished,405,New Launch,16,610,West,1,"₹ 79,00,000","Kurla East,  Mumbai, Maharashtra",1 Bds - 2 Ba - 610 ft2
+Builder Floors,1,2,Unfurnished,442,Under Construction,16,500,East,0,"₹ 1,32,00,000","Marol, Mumbai, Maharashtra",1 Bds - 2 Ba - 500 ft2
+Apartments,1,1,Unfurnished,231,Under Construction,19,244,North-East,0,"₹ 55,00,000","Chembur, Mumbai, Maharashtra",1 Bds - 1 Ba - 244 ft2
+Apartments,1,1,Unfurnished,203,Under Construction,23,299,East,1,"₹ 45,00,000","Chunabhatti, Mumbai, Maharashtra",1 Bds - 1 Ba - 299 ft2
+Apartments,3,2,Unfurnished,1542,Ready to Move,44,1836,East,1,"₹ 80,00,000","Goregaon East, Mumbai, Maharashtra",3 Bds - 2 Ba - 1836 ft2
+Apartments,1,2,Furnished,300,Ready to Move,7,425,West,0,"₹ 95,00,000","Bandra West, Mumbai, Maharashtra",1 Bds - 2 Ba - 425 ft2
+Apartments,2,2,Furnished,800,Ready to Move,15,1000,East,1,"₹ 2,70,00,000","Andheri West, Mumbai, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Apartments,2,2,Unfurnished,640,Ready to Move,5,1000,West,0,"₹ 1,20,00,000","Kurla West, Mumbai, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Houses & Villas,-,-,Furnished,225,Ready to Move,-,222,-,-,"₹ 28,00,000","Gulmohar Road, Mumbai, Maharashtra",-
+Apartments,3,3,Unfurnished,1175,Ready to Move,20,1145,South-West,1,"₹ 5,00,00,000","Valmiki Nagar, Mumbai, Maharashtra",3 Bds - 3 Ba - 1145 ft2
+Apartments,-,1,Unfurnished,350,Ready to Move,3,425,East,0,"₹ 23,50,000","Kurla East, Mumbai, Maharashtra",-
+Apartments,2,2,Furnished,742,Ready to Move,16,1050,West,1,"₹ 1,68,50,000","Kurla East, Mumbai, Maharashtra",2 Bds - 2 Ba - 1050 ft2
+Apartments,1,2,Furnished,441,Ready to Move,18,595,South-West,0,"₹ 1,11,00,000","Kurla East, Mumbai, Maharashtra",1 Bds - 2 Ba - 595 ft2
+Apartments,1,1,Unfurnished,500,-,2,690,North-East,1,"₹ 27,00,000","Chembur, Mumbai, Maharashtra",1 Bds - 1 Ba - 690 ft2
+Apartments,3,4,Semi-Furnished,1500,Ready to Move,17,2200,West,2,"₹ 6,11,00,000","Versova, Mumbai, Maharashtra",3 Bds - 4 Ba - 2200 ft2
+Houses & Villas,-,1,Semi-Furnished,0,Ready to Move,-,0,-,0,"₹ 32,00,000","Chembur, Mumbai, Maharashtra",-
+Builder Floors,1,2,Unfurnished,285,Ready to Move,3,285,West,0,"₹ 82,00,000","Mahim, Mumbai, Maharashtra",1 Bds - 2 Ba - 285 ft2
+Apartments,1,1,Unfurnished,414,Under Construction,23,650,East,1,"₹ 1,38,00,000","Lower Parel, Mumbai, Maharashtra",1 Bds - 1 Ba - 650 ft2
+Apartments,2,2,Unfurnished,553,Under Construction,34,690,East,1,"₹ 63,00,000","Kurla West, Mumbai, Maharashtra",2 Bds - 2 Ba - 690 ft2
+Apartments,1,1,Unfurnished,320,Ready to Move,7,500,East,0,"₹ 85,00,000","Chembur, Mumbai, Maharashtra",1 Bds - 1 Ba - 500 ft2
+Apartments,1,2,Unfurnished,457,New Launch,20,750,West,1,"₹ 89,11,250","Kurla East, Mumbai, Maharashtra",1 Bds - 2 Ba - 750 ft2
+Apartments,2,2,Semi-Furnished,800,Ready to Move,7,1000,East,1,"₹ 2,60,00,000","Andheri West, Mumbai, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Apartments,2,2,Semi-Furnished,520,-,22,650,East,1,"₹ 1,70,00,000","Bandra Kurla Complex, Mumbai, Maharashtra",2 Bds - 2 Ba - 650 ft2
+Apartments,1,2,Unfurnished,483,Ready to Move,19,750,North-West,0,"₹ 1,00,00,000","Kurla East, Mumbai, Maharashtra",1 Bds - 2 Ba - 750 ft2
+Builder Floors,2,2,Furnished,536,Ready to Move,35,686,-,1,"₹ 1,36,00,000","Chembur, Mumbai, Maharashtra",2 Bds - 2 Ba - 686 ft2
+Apartments,1,2,Semi-Furnished,404,Under Construction,32,650,East,0,"₹ 1,18,00,000","Andheri West, Mumbai, Maharashtra",1 Bds - 2 Ba - 650 ft2
+Apartments,2,2,Unfurnished,665,Ready to Move,9,790,East,1,"₹ 35,00,000","Bandra West, Mumbai, Maharashtra",2 Bds - 2 Ba - 790 ft2
+Apartments,2,2,Semi-Furnished,810,Ready to Move,3,1000,North-East,1,"₹ 2,85,00,000","Andheri West, Mumbai, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Builder Floors,1,1,Unfurnished,225,Ready to Move,-,280,-,0,"₹ 17,00,000","Kurla East, Mumbai, Maharashtra",1 Bds - 1 Ba - 280 ft2
+Apartments,1,2,Furnished,450,Ready to Move,7,600,East,1,"₹ 31,00,000","Dadar East, Mumbai, Maharashtra",1 Bds - 2 Ba - 600 ft2
+Builder Floors,1,1,Semi-Furnished,300,Ready to Move,2,420,North,-,"₹ 45,00,000","Kurla West, Mumbai, Maharashtra",1 Bds - 1 Ba - 420 ft2
+Apartments,2,2,Unfurnished,677,Under Construction,22,982,South-West,0,"₹ 56,80,000","Kurla West, Mumbai, Maharashtra",2 Bds - 2 Ba - 982 ft2
+Apartments,4,4,Semi-Furnished,1600,Ready to Move,15,2100,North-West,2,"₹ 6,99,00,000","Versova, Mumbai, Maharashtra",4 Bds - 4 Ba - 2100 ft2
+Apartments,1,2,Unfurnished,455,Under Construction,16,685,West,1,"₹ 90,00,000","Kurla East, Mumbai, Maharashtra",1 Bds - 2 Ba - 685 ft2
+Apartments,3,3,Unfurnished,1188,New Launch,32,1650,West,1,"₹ 5,25,00,000","Prabhadevi, Mumbai, Maharashtra",3 Bds - 3 Ba - 1650 ft2
+Apartments,2,2,Semi-Furnished,585,Ready to Move,13,634,South,1,"₹ 1,20,00,000","Kurla East, Mumbai, Maharashtra",2 Bds - 2 Ba - 634 ft2
+Apartments,1,1,Unfurnished,232,Under Construction,23,242,North-East,0,"₹ 55,00,000","Chembur, Mumbai, Maharashtra",1 Bds - 1 Ba - 242 ft2
+Apartments,2,2,Unfurnished,610,New Launch,16,1050,West,1,"₹ 1,27,00,500","Kurla East, Mumbai, Maharashtra",2 Bds - 2 Ba - 1050 ft2
+Apartments,1,1,Unfurnished,350,Ready to Move,7,550,North-West,0,"₹ 76,00,000","Versova, Mumbai, Maharashtra",1 Bds - 1 Ba - 550 ft2
+Apartments,2,2,Semi-Furnished,780,Ready to Move,22,1050,East,1,"₹ 1,90,00,000","Bandra East, Mumbai, Maharashtra",2 Bds - 2 Ba - 1050 ft2
+Houses & Villas,-,1,Semi-Furnished,225,-,-,225,-,-,"₹ 30,00,000","Dadar East, Mumbai, Maharashtra",-
+Houses & Villas,1,-,-,120,-,2,120,-,-,"₹ 15,00,000","Vakola, Mumbai, Maharashtra",-
+Apartments,1,1,Unfurnished,330,Under Construction,10,450,North,0,"₹ 66,00,000","Vikhroli East, Mumbai, Maharashtra",1 Bds - 1 Ba - 450 ft2
+Houses & Villas,1,1,Unfurnished,180,Ready to Move,1,200,North-West,0,"₹ 40,00,000","Kurla West, Mumbai, Maharashtra",1 Bds - 1 Ba - 200 ft2
+Apartments,1,1,Unfurnished,300,Under Construction,17,550,East,0,"₹ 75,00,000","Vikhroli West, Mumbai, Maharashtra",1 Bds - 1 Ba - 550 ft2
+Apartments,1,2,Unfurnished,410,Ready to Move,16,600,West,0,"₹ 75,00,000","Kurla East, Mumbai, Maharashtra",1 Bds - 2 Ba - 600 ft2
+Builder Floors,1,1,Semi-Furnished,650,Under Construction,32,436,East,0,"₹ 36,00,000","Chembur,  Mumbai, Maharashtra",1 Bds - 1 Ba - 436 ft2
+Apartments,1,2,Unfurnished,400,Under Construction,40,429,South-West,1,"₹ 89,00,000","Oshiwara,  Mumbai, Maharashtra",1 Bds - 2 Ba - 429 ft2
+Apartments,1,1,Semi-Furnished,300,Ready to Move,5,225,East,1,"₹ 14,50,000","Govandi, Mumbai, Maharashtra",1 Bds - 1 Ba - 225 ft2
+Apartments,3,2,Unfurnished,908,Ready to Move,21,1080,East,1,"₹ 1,00,00,000","Kurla West,  Mumbai, Maharashtra",3 Bds - 2 Ba - 1080 ft2
+Farm Houses,2,2,Furnished,1200,Ready to Move,1,1500,East,2,"₹ 1,25,00,000","Chembur, Mumbai, Maharashtra",2 Bds - 2 Ba - 1500 ft2
+Houses & Villas,-,-,-,100,-,1,100,-,-,"₹ 40,00,000","Vikhroli East, Mumbai, Maharashtra",-
+Houses & Villas,-,1,Unfurnished,225,Ready to Move,3,239,-,0,"₹ 32,50,000","Kurla West, Mumbai, Maharashtra",-
+Apartments,2,2,Semi-Furnished,722,Ready to Move,18,1010,North-East,1,"₹ 1,05,00,000","Andheri East, Mumbai, Maharashtra",2 Bds - 2 Ba - 1010 ft2
+Apartments,1,2,Semi-Furnished,420,Ready to Move,7,540,West,1,"₹ 1,30,00,000","Kurla West, Mumbai, Maharashtra",1 Bds - 2 Ba - 540 ft2
+Apartments,2,2,Semi-Furnished,800,Ready to Move,7,1036,North-West,2,"₹ 77,00,000","Guru Teg Bahadur Nagar, Mumbai, Maharashtra",2 Bds - 2 Ba - 1036 ft2
+Houses & Villas,2,2,Furnished,400,Ready to Move,2,450,North-East,1,"₹ 38,90,000","GTB Nagar, Mumbai, Maharashtra",2 Bds - 2 Ba - 450 ft2
+Apartments,2,2,Semi-Furnished,750,Ready to Move,7,1050,South-West,1,"₹ 5,50,00,000","Versova, Mumbai, Maharashtra",2 Bds - 2 Ba - 1050 ft2
+Builder Floors,1,1,Semi-Furnished,250,Ready to Move,4,280,North-East,1,"₹ 28,99,992","Bandra West, Mumbai, Maharashtra",1 Bds - 1 Ba - 280 ft2
+Houses & Villas,4+,4+,Furnished,7500,Ready to Move,3,10000,-,-,"₹ 34,00,00,000","Andheri West, Mumbai, Maharashtra",4+ Bds - 4+ Ba - 10000 ft2
+Apartments,1,2,Semi-Furnished,412,Under Construction,27,698,South-East,-,"₹ 1,09,75,699","Ghatkopar East, Mumbai, Maharashtra",1 Bds - 2 Ba - 698 ft2
+Apartments,2,2,Semi-Furnished,850,Ready to Move,18,1137,South-West,1,"₹ 2,35,00,000","Andheri West, Mumbai, Maharashtra",2 Bds - 2 Ba - 1137 ft2
+Apartments,2,2,Semi-Furnished,704,Ready to Move,17,1000,East,1,"₹ 3,35,00,000","Versova, Mumbai, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Builder Floors,1,1,Furnished,300,New Launch,3,375,North,0,"₹ 30,00,000","Kurla West, Mumbai, Maharashtra",1 Bds - 1 Ba - 375 ft2
+Apartments,2,2,Unfurnished,790,Ready to Move,13,1060,West,1,"₹ 3,25,00,000","Versova, Mumbai, Maharashtra",2 Bds - 2 Ba - 1060 ft2
+Apartments,1,1,Furnished,340,Ready to Move,3,400,North,0,"₹ 85,00,000","Mahim, Mumbai, Maharashtra",1 Bds - 1 Ba - 400 ft2
+Apartments,1,2,Unfurnished,383,Under Construction,9,479,West,0,"₹ 1,33,00,000","Santacruz East,  Mumbai, Maharashtra",1 Bds - 2 Ba - 479 ft2
+Apartments,3,3,Furnished,1000,Ready to Move,2,1050,West,0,"₹ 2,00,00,000","Bandra West, Mumbai, Maharashtra",3 Bds - 3 Ba - 1050 ft2
+Apartments,1,1,Semi-Furnished,375,Ready to Move,7,480,-,1,"₹ 95,00,000","Sion East, Mumbai, Maharashtra",1 Bds - 1 Ba - 480 ft2
+Apartments,1,1,Semi-Furnished,350,Ready to Move,11,490,East,1,"₹ 1,35,00,000","Vile Parle West, Mumbai, Maharashtra",1 Bds - 1 Ba - 490 ft2
+Apartments,1,1,Unfurnished,300,Under Construction,17,550,East,0,"₹ 75,00,000","Kurla West, Mumbai, Maharashtra",1 Bds - 1 Ba - 550 ft2
+Apartments,2,2,Furnished,800,Ready to Move,7,1050,North-East,1,"₹ 2,85,00,000","Versova, Mumbai, Maharashtra",2 Bds - 2 Ba - 1050 ft2
+Houses & Villas,2,2,Unfurnished,550,Ready to Move,3,650,-,-,"₹ 3,00,000","Versova Gaon, Thane, Maharashtra",2 Bds - 2 Ba - 650 ft2
+Apartments,1,2,Unfurnished,410,Under Construction,21,620,-,-,"₹ 95,00,000","Jogeshwari West, Mumbai, Maharashtra",1 Bds - 2 Ba - 620 ft2
+Builder Floors,3,3,Unfurnished,762,Under Construction,16,1200,East,-,"₹ 1,59,00,000","Anushakti Nagar, Mumbai, Maharashtra",3 Bds - 3 Ba - 1200 ft2
+Apartments,3,3,Unfurnished,1005,Ready to Move,23,1400,South-East,1,"₹ 3,49,00,000","Versova, Mumbai, Maharashtra",3 Bds - 3 Ba - 1400 ft2
+Apartments,3,3,Unfurnished,1161,Under Construction,34,1533,East,2,"₹ 4,49,00,000","Vikhroli West,  Mumbai, Maharashtra",3 Bds - 3 Ba - 1533 ft2
+Apartments,1,2,Furnished,595,Ready to Move,6,650,North-West,1,"₹ 2,50,00,000","Versova, Mumbai, Maharashtra",1 Bds - 2 Ba - 650 ft2
+Apartments,2,2,Furnished,790,Ready to Move,-,894,East,-,"₹ 1,00,88,000","Santacruz East, Mumbai, Maharashtra",2 Bds - 2 Ba - 894 ft2
+Apartments,1,2,Furnished,519,Ready to Move,14,713,North,3+,"₹ 95,00,000","Kurla East, Mumbai, Maharashtra",1 Bds - 2 Ba - 713 ft2
+Apartments,1,1,Unfurnished,519,Ready to Move,5,618,East,1,"₹ 35,00,000","Dockyard Road, Mumbai, Maharashtra",1 Bds - 1 Ba - 618 ft2
+Houses & Villas,4+,4+,Unfurnished,3100,Ready to Move,03,5000,South-West,3,"₹ 3,65,00,000","Versova, Mumbai, Maharashtra",4+ Bds - 4+ Ba - 5000 ft2
+Apartments,2,2,Unfurnished,693,Ready to Move,15,1000,North-East,1,"₹ 1,50,00,000","Kurla East, Mumbai, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Apartments,3,3,Unfurnished,900,Ready to Move,13,1522,North-East,1,"₹ 2,00,00,000","Kurla West, Mumbai, Maharashtra",3 Bds - 3 Ba - 1522 ft2
+Apartments,1,2,Unfurnished,400,New Launch,17,582,West,0,"₹ 85,00,000","Kurla East, Mumbai, Maharashtra",1 Bds - 2 Ba - 582 ft2
+Apartments,1,1,Semi-Furnished,297,Under Construction,12,500,East,1,"₹ 29,90,000","Mankhurd, Mumbai, Maharashtra",1 Bds - 1 Ba - 500 ft2
+Apartments,1,2,Unfurnished,455,Ready to Move,7,750,West,0,"₹ 1,15,00,000","Natwar Nagar, Mumbai, Maharashtra",1 Bds - 2 Ba - 750 ft2
+Apartments,2,2,-,955,Ready to Move,16,1278,West,1,"₹ 2,25,00,000","Chembur, Mumbai, Maharashtra",2 Bds - 2 Ba - 1278 ft2
+Apartments,3,3,Semi-Furnished,1069,Under Construction,22,1450,East,1,"₹ 1,02,00,000","Andheri East, Mumbai, Maharashtra",3 Bds - 3 Ba - 1450 ft2
+Houses & Villas,-,1,Unfurnished,0,Ready to Move,0,230,East,0,"₹ 32,00,000","Chunabhatti, Mumbai, Maharashtra",-
+Apartments,3,3,Unfurnished,1166,Ready to Move,23,1350,West,1,"₹ 8,10,00,000","Bandra West, Mumbai, Maharashtra",3 Bds - 3 Ba - 1350 ft2
+Apartments,4+,4+,Semi-Furnished,4714,Ready to Move,75,5800,West,3+,"₹ 35,00,00,000","Lower Parel,  Mumbai, Maharashtra",4+ Bds - 4+ Ba - 5800 ft2
+Apartments,-,-,-,600,-,-,700,-,-,"₹ 1,27,80,000","Chembur, Mumbai, Maharashtra",-
+Apartments,1,1,Unfurnished,350,Ready to Move,17,00000,-,0,"₹ 45,00,000","Chembur, Mumbai, Maharashtra",1 Bds - 1 Ba - 00000 ft2
+Apartments,2,2,Unfurnished,800,New Launch,16,1250,West,1,"₹ 2,80,00,000","Bandra West, Mumbai, Maharashtra",2 Bds - 2 Ba - 1250 ft2
+Apartments,3,3,Furnished,1100,Ready to Move,15,1600,North-East,1,"₹ 5,49,00,000","Versova, Mumbai, Maharashtra",3 Bds - 3 Ba - 1600 ft2
+Apartments,1,1,Unfurnished,225,Ready to Move,24,300,East,-,"₹ 60,00,000","Byculla, Mumbai, Maharashtra",1 Bds - 1 Ba - 300 ft2
+Apartments,1,1,Unfurnished,250,Ready to Move,1,250,North,0,"₹ 30,00,000","Kalina, Mumbai, Maharashtra",1 Bds - 1 Ba - 250 ft2
+Apartments,2,2,Unfurnished,644,New Launch,20,1090,West,1,"₹ 1,25,00,000","Kurla East, Mumbai, Maharashtra",2 Bds - 2 Ba - 1090 ft2
+Builder Floors,1,1,Furnished,360,Under Construction,24,540,West,1,"₹ 35,00,000","Kurla West, Mumbai, Maharashtra",1 Bds - 1 Ba - 540 ft2
+Apartments,3,4,Unfurnished,1050,Ready to Move,7,750,East,2,"₹ 1,75,00,000","Marol, Mumbai, Maharashtra",3 Bds - 4 Ba - 750 ft2
+Apartments,2,2,Semi-Furnished,652,Ready to Move,5,880,West,1,"₹ 1,30,00,000","Netaji Nagar, Mumbai, Maharashtra",2 Bds - 2 Ba - 880 ft2
+Apartments,2,2,Unfurnished,780,New Launch,32,1150,West,1,"₹ 3,45,00,000","Prabhadevi, Mumbai, Maharashtra",2 Bds - 2 Ba - 1150 ft2
+-,-,-,-,-,-,-,-,-,-,"₹ 4,50,00,000",-,-
+Apartments,3,3,Furnished,975,Ready to Move,20,1200,East,2,"₹ 1,50,00,000","Chembur, Mumbai, Maharashtra",3 Bds - 3 Ba - 1200 ft2
+Apartments,3,4,Furnished,1000,Ready to Move,7,1400,West,1,"₹ 6,00,00,000","Bandra West, Mumbai, Maharashtra",3 Bds - 4 Ba - 1400 ft2
+Apartments,1,2,Semi-Furnished,398,Under Construction,25,589,South-East,3+,"₹ 1,77,16,855","Powai, Mumbai, Maharashtra",1 Bds - 2 Ba - 589 ft2
+Houses & Villas,2,2,Semi-Furnished,1400,Ready to Move,2,1400,North-East,1,"₹ 95,00,000","Kurla East, Mumbai, Maharashtra",2 Bds - 2 Ba - 1400 ft2
+Apartments,2,2,Unfurnished,1120,New Launch,32,780,West,1,"₹ 3,65,00,000","Prabhadevi, Mumbai, Maharashtra",2 Bds - 2 Ba - 780 ft2
+Apartments,2,2,Unfurnished,666,New Launch,16,1040,West,1,"₹ 1,83,00,000","Bandra Kurla Complex, Mumbai, Maharashtra",2 Bds - 2 Ba - 1040 ft2
+Apartments,1,1,Unfurnished,381,Under Construction,32,560,West,0,"₹ 37,00,000","Kurla West, Mumbai, Maharashtra",1 Bds - 1 Ba - 560 ft2
+Apartments,2,2,Furnished,783,Under Construction,28,1000,East,1,"₹ 3,50,00,000","Powai, Mumbai, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Apartments,1,1,Unfurnished,225,Ready to Move,7,300,North-East,1,"₹ 31,00,000","Kurla West, Mumbai, Maharashtra",1 Bds - 1 Ba - 300 ft2
+Apartments,1,1,Unfurnished,450,Ready to Move,6,450,West,1,"₹ 82,00,000","Kurla West, Mumbai, Maharashtra",1 Bds - 1 Ba - 450 ft2
+Houses & Villas,1,2,Semi-Furnished,260,Ready to Move,1,280,East,0,"₹ 30,00,000","Ghatkopar West, Mumbai, Maharashtra",1 Bds - 2 Ba - 280 ft2
+Apartments,1,2,Furnished,465,Ready to Move,16,710,West,1,"₹ 1,10,00,000","Kurla East, Mumbai, Maharashtra",1 Bds - 2 Ba - 710 ft2
+Apartments,1,2,Unfurnished,396,Under Construction,17,550,East,0,"₹ 99,00,000","Ghatkopar West,  Mumbai, Maharashtra",1 Bds - 2 Ba - 550 ft2
+Apartments,1,1,Unfurnished,330,Ready to Move,5,450,-,0,"₹ 22,00,000","Kurla East, Mumbai, Maharashtra",1 Bds - 1 Ba - 450 ft2
+Apartments,2,2,Semi-Furnished,425,Ready to Move,22,450,North-East,0,"₹ 1,85,00,000","Currey Road, Mumbai, Maharashtra",2 Bds - 2 Ba - 450 ft2
+Apartments,1,-,-,453,-,-,550,-,-,"₹ 1,25,38,000","Chembur, Mumbai, Maharashtra",-
+Apartments,2,2,Semi-Furnished,750,Ready to Move,15,1100,South-West,1,"₹ 3,45,00,000","Versova, Mumbai, Maharashtra",2 Bds - 2 Ba - 1100 ft2
+Houses & Villas,1,1,Unfurnished,1115,Ready to Move,1,1115,South,0,"₹ 40,00,000","Tagore Nagar, Mumbai, Maharashtra",1 Bds - 1 Ba - 1115 ft2
+Apartments,4,4,Unfurnished,1314,Ready to Move,11,1314,East,2,"₹ 7,10,00,000","Santacruz West, Mumbai, Maharashtra",4 Bds - 4 Ba - 1314 ft2
+Apartments,2,2,Semi-Furnished,704,Ready to Move,15,1100,South-West,1,"₹ 3,50,00,000","Versova, Mumbai, Maharashtra",2 Bds - 2 Ba - 1100 ft2
+Apartments,2,2,Unfurnished,542,Ready to Move,11,667,East,1,"₹ 1,50,00,000","Andheri West, Mumbai, Maharashtra",2 Bds - 2 Ba - 667 ft2
+Apartments,-,-,-,4000,-,-,4440,-,-,"₹ 4,11,00,000","Andheri East, Mumbai, Maharashtra",-
+Apartments,1,1,Furnished,180,Ready to Move,4,250,East,0,"₹ 85,00,000","Parel, Mumbai, Maharashtra",1 Bds - 1 Ba - 250 ft2
+Apartments,2,2,Unfurnished,680,Under Construction,17,1080,-,-,"₹ 1,75,00,000","Jogeshwari West, Mumbai, Maharashtra",2 Bds - 2 Ba - 1080 ft2
+Houses & Villas,1,1,Unfurnished,480,Ready to Move,1,550,North-East,0,"₹ 39,50,000","Santacruz East, Mumbai, Maharashtra",1 Bds - 1 Ba - 550 ft2
+Apartments,1,2,Unfurnished,320,Ready to Move,22,550,East,0,"₹ 67,00,000","Ghatkopar West, Mumbai, Maharashtra",1 Bds - 2 Ba - 550 ft2
+Houses & Villas,1,1,Semi-Furnished,400,Ready to Move,-,350,West,-,"₹ 60,00,000","Vidya Nagari, Mumbai, Maharashtra",1 Bds - 1 Ba - 350 ft2
+Apartments,1,2,Semi-Furnished,525,Ready to Move,10,800,East,0,"₹ 1,29,00,000","Ghatkopar West, Mumbai, Maharashtra",1 Bds - 2 Ba - 800 ft2
+Builder Floors,4+,4+,Semi-Furnished,3000,Ready to Move,3,4500,East,3+,"₹ 13,00,00,000","Vakola, Mumbai, Maharashtra",4+ Bds - 4+ Ba - 4500 ft2
+Apartments,1,1,Semi-Furnished,600,Ready to Move,8,700,West,1,"₹ 1,60,00,000","Andheri West, Mumbai, Maharashtra",1 Bds - 1 Ba - 700 ft2
+Apartments,1,1,Semi-Furnished,405,New Launch,44,510,East,0,"₹ 45,50,000","Upper Worli, Mumbai, Maharashtra",1 Bds - 1 Ba - 510 ft2
+Apartments,2,2,Unfurnished,750,Ready to Move,15,1050,South-West,1,"₹ 3,50,00,000","Versova, Mumbai, Maharashtra",2 Bds - 2 Ba - 1050 ft2
+Apartments,3,3,Semi-Furnished,1100,Ready to Move,15,1550,South-West,1,"₹ 3,95,00,000","Versova,  Mumbai, Maharashtra",3 Bds - 3 Ba - 1550 ft2
+Apartments,1,2,Semi-Furnished,450,Ready to Move,-,600,North-West,1,"₹ 1,25,00,000","Jogeshwari West, Mumbai, Maharashtra",1 Bds - 2 Ba - 600 ft2
+Apartments,4+,4+,Semi-Furnished,2600,Ready to Move,15,3000,West,3+,"₹ 14,50,00,000","Versova, Mumbai, Maharashtra",4+ Bds - 4+ Ba - 3000 ft2
+Apartments,2,2,Furnished,540,Ready to Move,14,850,West,1,"₹ 1,27,00,000","Kurla East, Mumbai, Maharashtra",2 Bds - 2 Ba - 850 ft2
+Apartments,2,2,Semi-Furnished,750,Ready to Move,7,1150,West,1,"₹ 2,45,00,000","Versova, Mumbai, Maharashtra",2 Bds - 2 Ba - 1150 ft2
+Apartments,1,1,Semi-Furnished,350,Ready to Move,4,425,West,1,"₹ 45,00,000","Santacruz East, Mumbai, Maharashtra",1 Bds - 1 Ba - 425 ft2
+Apartments,1,1,Furnished,320,Ready to Move,6,500,North-East,1,"₹ 1,45,00,000","Mahim, Mumbai, Maharashtra",1 Bds - 1 Ba - 500 ft2
+Apartments,1,1,Unfurnished,200,Ready to Move,-,210,-,0,"₹ 33,00,000","Netaji Nagar, Mumbai, Maharashtra",1 Bds - 1 Ba - 210 ft2
+Builder Floors,3,2,Unfurnished,915,Ready to Move,-,915,-,-,"₹ 2,20,00,000","Ghatkopar East, Mumbai, Maharashtra",3 Bds - 2 Ba - 915 ft2
+Apartments,1,2,Unfurnished,240,Ready to Move,8,300,East,0,"₹ 75,00,000","Parel, Mumbai, Maharashtra",1 Bds - 2 Ba - 300 ft2
+Apartments,2,2,Unfurnished,677,New Launch,12,1050,West,1,"₹ 1,55,00,000","Kurla West, Mumbai, Maharashtra",2 Bds - 2 Ba - 1050 ft2
+Apartments,1,2,Unfurnished,387,New Launch,20,650,West,1,"₹ 75,00,000","Kurla East, Mumbai, Maharashtra",1 Bds - 2 Ba - 650 ft2
+Apartments,4,4,Unfurnished,2800,Ready to Move,72,4400,West,2,"₹ 12,00,00,000","Worli, Mumbai, Maharashtra",4 Bds - 4 Ba - 4400 ft2
+Apartments,1,-,-,310,-,-,401,-,-,"₹ 60,00,000","Andheri West, Mumbai, Maharashtra",-
+Apartments,1,1,Semi-Furnished,445,Ready to Move,7,530,East,1,"₹ 51,00,000","Chembur, Mumbai, Maharashtra",1 Bds - 1 Ba - 530 ft2
+Apartments,1,1,Unfurnished,225,Ready to Move,24,400,North-East,0,"₹ 45,00,000","Parel,  Mumbai, Maharashtra",1 Bds - 1 Ba - 400 ft2
+Apartments,1,1,Semi-Furnished,470,Ready to Move,10,470,North,1,"₹ 35,00,000","Shivaji Nagar, Mumbai, Maharashtra",1 Bds - 1 Ba - 470 ft2
+Apartments,4+,4,Unfurnished,2850,Ready to Move,10,3250,West,2,"₹ 30,00,00,000","Bandra West, Mumbai, Maharashtra",4+ Bds - 4 Ba - 3250 ft2
+Apartments,4+,4+,Semi-Furnished,5500,Ready to Move,19,8000,North-West,2,"₹ 60,00,00,000","Worli, Mumbai, Maharashtra",4+ Bds - 4+ Ba - 8000 ft2
+Apartments,1,1,Semi-Furnished,350,Ready to Move,12,650,East,1,"₹ 31,00,000","Bandra East, Mumbai, Maharashtra",1 Bds - 1 Ba - 650 ft2
+Apartments,4+,4+,Furnished,2000,Ready to Move,-,2500,-,0,"₹ 2,50,000","Vile Parle East, Mumbai, Maharashtra",4+ Bds - 4+ Ba - 2500 ft2
+Apartments,1,1,Unfurnished,230,Ready to Move,19,355,East,1,"₹ 55,00,000","Ghatkopar East, Mumbai, Maharashtra",1 Bds - 1 Ba - 355 ft2
+-,-,-,-,-,-,-,-,-,-,"₹ 1,56,00,000",-,-
+Apartments,1,1,Unfurnished,288,Ready to Move,5,309,East,1,"₹ 48,00,000","Andheri West, Mumbai, Maharashtra",1 Bds - 1 Ba - 309 ft2
+Apartments,1,2,Unfurnished,433,New Launch,20,710,West,1,"₹ 84,24,000","Kurla East, Mumbai, Maharashtra",1 Bds - 2 Ba - 710 ft2
+Apartments,3,3,Unfurnished,1139,Under Construction,22,1400,East,2,"₹ 3,00,00,000","Marol,  Mumbai, Maharashtra",3 Bds - 3 Ba - 1400 ft2
+Builder Floors,1,1,Semi-Furnished,350,Ready to Move,3,350,West,0,"₹ 28,00,000","Juhu Tara Road, Mumbai, Maharashtra",1 Bds - 1 Ba - 350 ft2
+Builder Floors,2,2,Semi-Furnished,650,Ready to Move,22,700,West,0,"₹ 1,60,00,000","Byculla, Mumbai, Maharashtra",2 Bds - 2 Ba - 700 ft2
+Apartments,-,-,-,500,-,-,610,-,-,"₹ 1,68,64,000","Chembur, Mumbai, Maharashtra",-
+Apartments,2,2,Semi-Furnished,618,Under Construction,27,845,South-East,3+,"₹ 1,71,75,569","Chembur, Mumbai, Maharashtra",2 Bds - 2 Ba - 845 ft2
+Apartments,1,2,Unfurnished,340,Ready to Move,20,560,West,1,"₹ 90,00,000","Bandra East, Mumbai, Maharashtra",1 Bds - 2 Ba - 560 ft2
+Houses & Villas,2,2,Unfurnished,550,Ready to Move,-,600,East,1,"₹ 24,00,000","Aarey Road, Mumbai, Maharashtra",2 Bds - 2 Ba - 600 ft2
+Builder Floors,2,2,Unfurnished,469,Under Construction,12,748,East,1,"₹ 45,00,000","Govandi, Mumbai, Maharashtra",2 Bds - 2 Ba - 748 ft2
+Apartments,1,1,Furnished,450,Under Construction,35,650,East,1,"₹ 91,00,000","Juhu, Mumbai, Maharashtra",1 Bds - 1 Ba - 650 ft2
+Builder Floors,3,3,Unfurnished,1200,Under Construction,29,1800,East,2,"₹ 2,90,00,000","Anushakti Nagar, Mumbai, Maharashtra",3 Bds - 3 Ba - 1800 ft2
+Apartments,2,2,Unfurnished,688,Ready to Move,10,750,East,1,"₹ 42,00,000","Chunabhatti, Mumbai, Maharashtra",2 Bds - 2 Ba - 750 ft2
+-,-,-,-,-,-,-,-,-,-,-,-,-
+Builder Floors,1,1,Semi-Furnished,305,Under Construction,16,575,East,0,"₹ 26,50,000","Kurla East, Mumbai, Maharashtra",1 Bds - 1 Ba - 575 ft2
+Apartments,1,1,Unfurnished,410,Ready to Move,16,620,-,0,"₹ 85,00,000","Kurla East, Mumbai, Maharashtra",1 Bds - 1 Ba - 620 ft2
+Apartments,1,1,Unfurnished,259,Ready to Move,5,309,East,1,"₹ 48,00,000","Andheri West, Mumbai, Maharashtra",1 Bds - 1 Ba - 309 ft2
+Apartments,2,1,Semi-Furnished,560,Ready to Move,-,600,-,2,"₹ 1,23,60,000","Andheri West, Mumbai, Maharashtra",2 Bds - 1 Ba - 600 ft2
+Apartments,1,1,Furnished,555,New Launch,55,555,South,0,"₹ 1,50,000","Vile Parle East,  Mumbai, Maharashtra",1 Bds - 1 Ba - 555 ft2
+Apartments,4,4,Semi-Furnished,1550,Ready to Move,15,2500,South-West,2,"₹ 7,10,00,000","Versova, Mumbai, Maharashtra",4 Bds - 4 Ba - 2500 ft2
+Apartments,2,1,Semi-Furnished,800,Ready to Move,4,1250,-,1,"₹ 1,50,00,000","Chembur, Mumbai, Maharashtra",2 Bds - 1 Ba - 1250 ft2
+Apartments,1,2,Semi-Furnished,425,Ready to Move,12,661,West,1,"₹ 1,25,00,000","Kurla West, Mumbai, Maharashtra",1 Bds - 2 Ba - 661 ft2
+Apartments,1,1,Semi-Furnished,330,Ready to Move,7,430,-,0,"₹ 90,00,000","Dharavi, Mumbai, Maharashtra",1 Bds - 1 Ba - 430 ft2
+Apartments,2,2,Semi-Furnished,800,Ready to Move,10,1250,West,1,"₹ 60,000","Kurla West, Mumbai, Maharashtra",2 Bds - 2 Ba - 1250 ft2
+Apartments,3,3,Furnished,900,-,7,1050,East,1,"₹ 2,75,00,000","Santacruz West, Mumbai, Maharashtra",3 Bds - 3 Ba - 1050 ft2
+Apartments,2,2,Unfurnished,649,Under Construction,16,857,East,1,"₹ 2,15,00,000","Chandivali,  Mumbai, Maharashtra",2 Bds - 2 Ba - 857 ft2
+Apartments,4,4,Unfurnished,1200,Ready to Move,1,1600,East,1,"₹ 65,00,000","Chembur, Mumbai, Maharashtra",4 Bds - 4 Ba - 1600 ft2
+Builder Floors,2,2,Unfurnished,640,Ready to Move,10,900,East,1,"₹ 2,90,00,000","Vile Parle East, Mumbai, Maharashtra",2 Bds - 2 Ba - 900 ft2
+Apartments,3,2,Unfurnished,950,Ready to Move,21,1150,East,1,"₹ 61,00,000","Powai, Mumbai, Maharashtra",3 Bds - 2 Ba - 1150 ft2
+Apartments,1,2,Furnished,410,Ready to Move,16,610,West,0,"₹ 98,00,000","Kurla East, Mumbai, Maharashtra",1 Bds - 2 Ba - 610 ft2
+Builder Floors,1,1,Semi-Furnished,225,Ready to Move,3,350,West,0,"₹ 28,00,000","Bandra West, Mumbai, Maharashtra",1 Bds - 1 Ba - 350 ft2
+Builder Floors,2,2,Furnished,658,Under Construction,22,670,North-East,1,"₹ 2,35,00,000","Powai,  Mumbai, Maharashtra",2 Bds - 2 Ba - 670 ft2
+Apartments,2,1,Unfurnished,300,Ready to Move,2,450,-,-,"₹ 24,99,999","Kurla West, Mumbai, Maharashtra",2 Bds - 1 Ba - 450 ft2
+Apartments,2,2,Unfurnished,700,Ready to Move,22,1000,East,1,"₹ 45,00,000","Bandra West, Mumbai, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Apartments,2,2,Semi-Furnished,612,Ready to Move,16,950,West,0,"₹ 1,35,00,000","Ghatkopar East,  Mumbai, Maharashtra",2 Bds - 2 Ba - 950 ft2
+Apartments,1,1,Semi-Furnished,200,Ready to Move,2,360,West,1,"₹ 41,00,000","Chembur, Mumbai, Maharashtra",1 Bds - 1 Ba - 360 ft2
+-,-,-,-,-,-,-,-,-,-,-,-,-
+Apartments,2,2,Furnished,800,Ready to Move,15,1000,East,1,"₹ 3,00,00,000","Andheri West, Mumbai, Maharashtra",2 Bds - 2 Ba - 1000 ft2
+Houses & Villas,1,1,Furnished,200,Ready to Move,2,180,West,0,"₹ 22,00,000","Kurla West, Mumbai, Maharashtra",1 Bds - 1 Ba - 180 ft2
+Apartments,1,2,Unfurnished,440,Ready to Move,9,650,North-East,0,"₹ 1,20,00,000","Kajupada, Mumbai, Maharashtra",1 Bds - 2 Ba - 650 ft2
+Apartments,2,2,Furnished,589,Ready to Move,24,595,North-East,1,"₹ 2,06,15,000","Powai,  Mumbai, Maharashtra",2 Bds - 2 Ba - 595 ft2
+Apartments,2,2,Unfurnished,610,Ready to Move,3,725,East,1,"₹ 41,00,000","Santacruz West, Mumbai, Maharashtra",2 Bds - 2 Ba - 725 ft2
+Apartments,1,1,Unfurnished,411,Under Construction,34,650,North-West,0,"₹ 39,50,000","Kurla West, Mumbai, Maharashtra",1 Bds - 1 Ba - 650 ft2
+Apartments,1,1,Semi-Furnished,270,Ready to Move,17,350,West,0,"₹ 48,00,000","Chembur, Mumbai, Maharashtra",1 Bds - 1 Ba - 350 ft2
+Apartments,1,1,Unfurnished,548,Ready to Move,17,650,East,1,"₹ 40,00,000","Jogeshwari West, Mumbai, Maharashtra",1 Bds - 1 Ba - 650 ft2
+Apartments,1,1,Semi-Furnished,453,Under Construction,23,698,South-East,3+,"₹ 87,98,455","Kurla West, Mumbai, Maharashtra",1 Bds - 1 Ba - 698 ft2
+Apartments,2,2,Unfurnished,800,New Launch,32,1150,West,1,"₹ 3,50,00,000","Prabhadevi, Mumbai, Maharashtra",2 Bds - 2 Ba - 1150 ft2
+Apartments,1,1,Semi-Furnished,398,Under Construction,23,528,South-East,3+,"₹ 1,06,98,755","Andheri West, Mumbai, Maharashtra",1 Bds - 1 Ba - 528 ft2
+Builder Floors,2,2,Unfurnished,435,Ready to Move,12,750,-,-,"₹ 45,00,000","Dharavi, Mumbai, Maharashtra",2 Bds - 2 Ba - 750 ft2
+Apartments,2,2,Unfurnished,510,Ready to Move,18,850,East,0,"₹ 1,25,00,000","Chembur,  Mumbai, Maharashtra",2 Bds - 2 Ba - 850 ft2
